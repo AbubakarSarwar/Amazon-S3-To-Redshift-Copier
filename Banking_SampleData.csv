@@ -1,0 +1,1001 @@
+Member_ID,Credit_Score,Account_Balance,Employment_Status,Insurance,Delinquency,Credit_Card,OverDrawn_Status,Dependents,Joint_Account,Marital_Status,Loans,Age,Direct_Deposit_Income,Age_of_Membership_Account,Credit_Card_Limit
+1,Excellent,Low,Employee,None,No,Yes,No,Yes,No,Single,None,40,High,5 years,Medium
+2,Poor,High,Employee,Life,No,No,Yes,Yes,No,Married,Home,47,Medium,5 years,High
+3,Excellent,Low,Partner,None,Yes,No,No,Yes,Yes,Divorced,Auto,35,High,1 year,Low
+4,Poor,Low,Employee,Life,No,Yes,No,Yes,Yes,Divorced,Auto,45,Low,1 year,Medium
+5,Poor,High,Unemployed,Life,Yes,No,Yes,No,Yes,Single,None,13,Medium,1 year,Low
+6,Poor,High,Unemployed,Home Owner,Yes,Yes,No,No,Yes,Single,Personal,45,High,5 years,Medium
+7,Good,High,Unemployed,None,Yes,No,Yes,No,Yes,Divorced,Home,40,High,1 year,High
+8,Poor,Low,Unemployed,None,No,Yes,No,Yes,Yes,Single,Auto,36,Low,2-5 years,Medium
+9,Poor,Low,Unemployed,None,No,No,No,No,No,Single,Auto,26,Low,1 year,Medium
+10,Excellent,Low,Employee,Auto,Yes,No,Yes,No,No,Single,Personal,33,Medium,5 years,High
+11,Excellent,Medium,Partner,Life,No,No,Yes,No,No,Single,Auto,64,Low,5 years,High
+12,Good,High,Employee,Auto,Yes,Yes,Yes,Yes,No,Married,Auto,43,Medium,1 year,High
+13,Excellent,Low,Employee,None,No,No,No,No,No,Divorced,Auto,37,High,2-5 years,High
+14,Poor,Low,Employee,None,No,Yes,Yes,No,Yes,Divorced,None,35,Low,1 year,High
+15,Poor,Low,Partner,Auto,Yes,No,Yes,Yes,No,Married,Personal,59,High,2-5 years,Low
+16,Excellent,Low,Partner,Auto,Yes,No,No,Yes,No,Single,Auto,15,Medium,5 years,Low
+17,Excellent,Medium,Unemployed,Life,No,Yes,No,No,Yes,Married,Auto,52,Medium,2-5 years,High
+18,Poor,Low,Partner,None,No,Yes,Yes,No,No,Single,Home,41,Medium,1 year,High
+19,Poor,Medium,Unemployed,Life,No,No,Yes,No,No,Divorced,Home,78,Medium,5 years,High
+20,Poor,Low,Unemployed,None,No,Yes,No,No,Yes,Divorced,Personal,37,Low,1 year,Low
+21,Poor,Low,Employee,None,Yes,No,Yes,No,Yes,Single,Auto,58,High,2-5 years,High
+22,Poor,High,Partner,Home Owner,No,No,Yes,No,Yes,Divorced,Auto,48,Low,1 year,High
+23,Excellent,Medium,Unemployed,Life,No,Yes,Yes,No,Yes,Single,Personal,32,Medium,1 year,High
+24,Poor,Medium,Partner,Home Owner,No,No,No,Yes,No,Single,Auto,49,Medium,5 years,High
+25,Poor,Low,Unemployed,Home Owner,Yes,Yes,No,No,Yes,Married,Personal,52,High,5 years,Medium
+26,Good,Medium,Partner,Auto,Yes,No,Yes,No,No,Single,Personal,20,Medium,1 year,Medium
+27,Poor,Low,Partner,Home Owner,Yes,No,No,Yes,Yes,Divorced,Auto,42,Low,5 years,High
+28,Good,High,Employee,Life,Yes,No,Yes,No,Yes,Single,Home,28,High,5 years,Medium
+29,Excellent,High,Partner,Home Owner,Yes,Yes,Yes,Yes,Yes,Single,None,28,High,2-5 years,Low
+30,Excellent,Medium,Employee,None,No,Yes,No,No,No,Married,Auto,41,Medium,5 years,High
+31,Good,Low,Partner,None,Yes,No,Yes,No,No,Single,None,28,Low,1 year,High
+32,Excellent,Low,Unemployed,None,Yes,Yes,No,Yes,Yes,Married,Auto,49,Medium,1 year,High
+33,Good,Low,Employee,Life,No,No,Yes,No,No,Single,Auto,43,High,2-5 years,Medium
+34,Good,High,Partner,Auto,Yes,No,No,Yes,Yes,Married,Auto,44,Medium,2-5 years,Medium
+35,Excellent,Medium,Employee,None,Yes,No,Yes,No,Yes,Married,Auto,40,Medium,1 year,High
+36,Poor,Low,Partner,Auto,No,No,Yes,Yes,Yes,Single,Personal,43,High,5 years,Low
+37,Poor,Low,Unemployed,Life,No,No,No,Yes,No,Single,Personal,22,Medium,2-5 years,Low
+38,Excellent,High,Partner,None,No,No,No,Yes,Yes,Married,None,32,High,5 years,Medium
+39,Good,Medium,Employee,Auto,No,No,No,No,No,Single,Personal,64,Medium,1 year,Medium
+40,Excellent,Low,Employee,Home Owner,Yes,No,No,No,No,Single,None,34,Medium,1 year,High
+41,Excellent,High,Unemployed,Auto,Yes,No,No,No,Yes,Single,None,38,High,5 years,Low
+42,Poor,High,Employee,None,Yes,No,No,No,No,Married,Home,33,Medium,2-5 years,Low
+43,Good,High,Partner,Home Owner,Yes,No,Yes,Yes,Yes,Single,Auto,39,High,2-5 years,Medium
+44,Poor,High,Employee,Home Owner,No,No,Yes,No,Yes,Single,Home,50,Medium,1 year,Low
+45,Good,Medium,Employee,Auto,No,Yes,Yes,No,No,Married,Personal,37,Low,2-5 years,Low
+46,Good,High,Employee,None,Yes,No,No,Yes,Yes,Divorced,Home,44,Low,1 year,Medium
+47,Poor,High,Partner,Life,Yes,No,Yes,No,No,Single,None,16,Low,5 years,High
+48,Excellent,Medium,Employee,Home Owner,No,No,Yes,Yes,Yes,Married,Home,33,Medium,1 year,High
+49,Good,Low,Unemployed,Auto,Yes,Yes,No,Yes,Yes,Married,Auto,38,Medium,1 year,Medium
+50,Excellent,Low,Unemployed,Life,Yes,Yes,Yes,No,No,Single,Personal,40,High,5 years,High
+51,Good,Low,Employee,None,Yes,No,No,No,Yes,Married,Personal,46,Low,5 years,Low
+52,Poor,Medium,Unemployed,Life,No,Yes,No,No,Yes,Single,Auto,30,Medium,1 year,Low
+53,Excellent,High,Partner,Life,Yes,Yes,Yes,Yes,Yes,Married,Auto,58,Low,2-5 years,High
+54,Excellent,High,Partner,Home Owner,No,Yes,No,Yes,Yes,Divorced,None,41,Low,2-5 years,Low
+55,Excellent,Medium,Partner,None,No,No,No,Yes,No,Divorced,Personal,36,High,5 years,High
+56,Good,Low,Unemployed,Home Owner,No,Yes,Yes,No,No,Married,None,44,Low,5 years,Medium
+57,Poor,High,Unemployed,Home Owner,No,No,Yes,No,No,Single,None,31,Medium,5 years,Low
+58,Good,Medium,Partner,None,Yes,No,Yes,Yes,No,Married,Home,49,High,1 year,Low
+59,Excellent,Low,Employee,Home Owner,No,No,Yes,Yes,Yes,Single,None,18,Medium,5 years,Medium
+60,Good,Low,Employee,Auto,No,No,No,No,No,Divorced,None,33,High,2-5 years,Medium
+61,Excellent,High,Partner,Life,No,Yes,No,Yes,No,Divorced,Auto,48,Low,5 years,Medium
+62,Excellent,High,Employee,Home Owner,No,Yes,No,Yes,Yes,Married,Personal,39,High,1 year,High
+63,Good,High,Employee,None,Yes,No,No,No,No,Single,Personal,25,Low,1 year,High
+64,Excellent,Low,Unemployed,Life,No,Yes,Yes,No,Yes,Single,Auto,40,Medium,1 year,High
+65,Poor,High,Employee,Auto,No,No,Yes,No,No,Single,Personal,40,Medium,2-5 years,Medium
+66,Poor,Low,Partner,None,Yes,No,No,Yes,Yes,Married,None,52,Low,5 years,Medium
+67,Excellent,Medium,Employee,None,No,No,Yes,Yes,Yes,Single,Auto,13,Medium,1 year,Low
+68,Poor,Medium,Employee,None,Yes,No,Yes,Yes,No,Married,Home,39,Medium,5 years,High
+69,Excellent,High,Partner,None,No,No,Yes,Yes,Yes,Single,Home,29,Medium,1 year,High
+70,Poor,High,Unemployed,Home Owner,No,No,No,No,No,Single,None,59,High,1 year,Medium
+71,Poor,Low,Employee,Auto,No,Yes,Yes,Yes,No,Single,Home,40,High,5 years,Low
+72,Poor,High,Unemployed,Home Owner,Yes,No,No,No,Yes,Divorced,Auto,57,High,2-5 years,Low
+73,Good,High,Employee,Auto,Yes,Yes,Yes,Yes,No,Single,Home,28,Medium,2-5 years,Low
+74,Excellent,Low,Partner,Auto,No,No,No,Yes,Yes,Single,Auto,54,Low,2-5 years,Medium
+75,Poor,High,Partner,Home Owner,Yes,No,No,Yes,No,Married,None,43,High,5 years,High
+76,Excellent,Low,Partner,Auto,No,No,Yes,Yes,Yes,Single,None,46,Low,1 year,Low
+77,Good,Low,Unemployed,Home Owner,No,No,No,Yes,Yes,Single,Home,35,High,2-5 years,Medium
+78,Good,High,Partner,Life,No,No,Yes,No,No,Married,Auto,36,Low,1 year,Medium
+79,Good,Low,Unemployed,Auto,Yes,Yes,No,Yes,Yes,Single,Personal,35,Medium,1 year,High
+80,Poor,Low,Partner,Home Owner,Yes,Yes,Yes,Yes,No,Divorced,Auto,50,Low,1 year,Medium
+81,Good,Medium,Partner,Home Owner,No,Yes,Yes,Yes,Yes,Single,None,54,Low,1 year,Medium
+82,Good,High,Employee,Auto,No,No,No,No,Yes,Divorced,None,52,High,1 year,Medium
+83,Excellent,Medium,Employee,Auto,No,No,Yes,No,No,Single,Home,27,High,5 years,Low
+84,Excellent,Medium,Partner,Auto,Yes,No,Yes,Yes,No,Divorced,Personal,49,High,2-5 years,High
+85,Good,High,Partner,Home Owner,Yes,No,Yes,No,No,Single,Auto,39,Low,2-5 years,High
+86,Good,High,Employee,Home Owner,Yes,No,Yes,Yes,No,Married,Personal,60,High,5 years,Medium
+87,Poor,Low,Partner,Home Owner,Yes,No,Yes,No,Yes,Single,Auto,24,Medium,1 year,High
+88,Excellent,High,Employee,Auto,No,Yes,No,No,Yes,Married,Auto,42,Medium,1 year,High
+89,Poor,High,Partner,Auto,Yes,Yes,Yes,Yes,Yes,Single,Auto,32,Low,5 years,High
+90,Good,Medium,Employee,Auto,No,No,No,No,Yes,Single,Home,34,Low,2-5 years,Low
+91,Good,High,Employee,Auto,Yes,No,No,No,Yes,Married,Personal,38,High,2-5 years,High
+92,Good,Low,Partner,Home Owner,Yes,No,No,Yes,Yes,Single,Personal,24,High,1 year,High
+93,Poor,Medium,Partner,Life,Yes,No,Yes,Yes,No,Married,Personal,35,Medium,5 years,Low
+94,Good,Medium,Unemployed,None,No,No,Yes,No,No,Divorced,Personal,48,High,5 years,Medium
+95,Good,Low,Partner,Home Owner,Yes,No,No,No,Yes,Married,Home,35,Medium,1 year,Low
+96,Good,Low,Employee,Life,No,No,No,No,No,Divorced,Auto,44,Medium,1 year,High
+97,Poor,Medium,Partner,Home Owner,No,Yes,Yes,No,Yes,Married,Personal,49,High,2-5 years,Medium
+98,Excellent,Medium,Employee,Home Owner,Yes,Yes,Yes,Yes,Yes,Single,Auto,19,Low,2-5 years,Low
+99,Excellent,Medium,Employee,Auto,Yes,Yes,No,No,Yes,Married,None,51,High,5 years,Low
+100,Good,High,Employee,Home Owner,No,Yes,No,No,No,Single,None,35,Medium,1 year,Low
+101,Good,Medium,Unemployed,Auto,No,Yes,No,No,No,Single,None,18,High,1 year,Medium
+102,Excellent,Low,Partner,Life,No,Yes,No,No,No,Single,Auto,23,Medium,5 years,Low
+103,Good,Medium,Partner,Home Owner,Yes,Yes,Yes,Yes,No,Divorced,Home,49,Medium,1 year,Medium
+104,Good,Low,Unemployed,Auto,Yes,No,Yes,No,No,Married,Home,55,Low,5 years,Low
+105,Excellent,High,Employee,Auto,No,No,Yes,Yes,Yes,Married,Auto,61,Low,5 years,High
+106,Poor,Medium,Unemployed,Home Owner,No,No,Yes,Yes,Yes,Divorced,Home,34,High,5 years,Low
+107,Poor,Medium,Employee,Auto,Yes,No,Yes,No,Yes,Divorced,Auto,41,Medium,2-5 years,Medium
+108,Good,Medium,Employee,Home Owner,No,No,No,Yes,No,Divorced,Personal,55,Low,1 year,Low
+109,Excellent,Low,Partner,Home Owner,No,No,Yes,Yes,No,Single,Personal,54,Medium,2-5 years,Medium
+110,Poor,High,Partner,Auto,Yes,Yes,Yes,No,No,Married,None,52,Low,1 year,Medium
+111,Excellent,High,Unemployed,Life,Yes,No,No,No,Yes,Divorced,Personal,65,Low,2-5 years,Medium
+112,Good,High,Employee,None,No,Yes,Yes,No,Yes,Divorced,None,31,High,2-5 years,Medium
+113,Poor,Low,Employee,None,No,No,Yes,No,Yes,Divorced,Personal,33,High,2-5 years,Medium
+114,Good,High,Unemployed,None,No,No,Yes,No,Yes,Married,Personal,75,Medium,2-5 years,High
+115,Poor,Low,Partner,None,Yes,No,No,Yes,No,Divorced,Home,32,Low,2-5 years,Medium
+116,Poor,Medium,Partner,None,No,No,No,Yes,No,Married,None,32,Low,2-5 years,Low
+117,Excellent,Medium,Partner,Auto,Yes,No,No,No,No,Single,None,16,Medium,5 years,Medium
+118,Good,High,Partner,Auto,No,No,Yes,Yes,Yes,Single,None,43,Low,1 year,Medium
+119,Good,Medium,Unemployed,Home Owner,No,Yes,Yes,No,Yes,Single,Personal,41,Low,2-5 years,Low
+120,Poor,High,Unemployed,Life,No,Yes,No,No,No,Married,Personal,32,Medium,1 year,Medium
+121,Good,High,Employee,Home Owner,Yes,Yes,No,Yes,No,Single,Auto,20,Medium,5 years,High
+122,Poor,High,Unemployed,Auto,No,Yes,No,No,No,Married,Home,34,Low,5 years,High
+123,Poor,Low,Employee,Home Owner,No,Yes,No,Yes,Yes,Divorced,Home,64,High,2-5 years,Low
+124,Poor,Low,Employee,Life,Yes,No,No,No,Yes,Single,None,49,Medium,5 years,High
+125,Excellent,Low,Unemployed,Home Owner,Yes,No,Yes,Yes,Yes,Single,Home,23,Medium,5 years,High
+126,Good,Low,Employee,Auto,No,No,No,Yes,Yes,Single,None,16,High,1 year,Low
+127,Excellent,Low,Partner,Life,Yes,No,Yes,Yes,Yes,Married,Home,44,Low,5 years,High
+128,Poor,High,Unemployed,Life,Yes,Yes,No,No,Yes,Married,Personal,69,High,5 years,Low
+129,Good,Medium,Employee,Life,No,Yes,Yes,Yes,Yes,Divorced,Auto,35,High,2-5 years,High
+130,Poor,High,Unemployed,Auto,Yes,Yes,Yes,No,No,Divorced,None,41,High,1 year,Low
+131,Good,Low,Partner,Life,Yes,No,Yes,Yes,No,Single,Home,38,Medium,1 year,Medium
+132,Excellent,High,Employee,Life,No,No,Yes,Yes,Yes,Married,Auto,43,High,2-5 years,Medium
+133,Good,Medium,Employee,Home Owner,No,No,No,Yes,No,Married,Home,36,High,5 years,High
+134,Poor,Low,Partner,Auto,No,No,Yes,No,Yes,Single,Home,35,High,2-5 years,Medium
+135,Good,High,Partner,Auto,No,Yes,Yes,No,Yes,Single,Auto,39,Low,1 year,Medium
+136,Excellent,High,Unemployed,Life,Yes,Yes,No,No,No,Divorced,Auto,82,Medium,2-5 years,Medium
+137,Poor,Medium,Partner,Life,No,No,Yes,No,No,Single,Home,11,Low,2-5 years,High
+138,Poor,Low,Partner,Home Owner,No,Yes,No,No,No,Divorced,None,50,Medium,5 years,Low
+139,Poor,High,Partner,Auto,No,Yes,Yes,Yes,Yes,Divorced,Personal,43,Low,5 years,High
+140,Poor,Medium,Unemployed,None,Yes,No,Yes,Yes,Yes,Married,Home,51,Low,1 year,Low
+141,Poor,High,Unemployed,Auto,No,No,No,No,No,Married,Personal,49,Low,2-5 years,High
+142,Excellent,Low,Employee,Life,No,No,Yes,Yes,No,Married,Personal,46,Medium,1 year,High
+143,Excellent,Low,Partner,Life,No,No,No,Yes,Yes,Single,None,40,Medium,2-5 years,Medium
+144,Excellent,High,Unemployed,Life,No,No,No,No,Yes,Single,Personal,29,High,5 years,Medium
+145,Good,Low,Unemployed,None,Yes,No,Yes,No,No,Married,Personal,38,Medium,2-5 years,Low
+146,Good,High,Partner,Life,No,No,No,No,Yes,Married,Home,38,High,1 year,Medium
+147,Poor,High,Unemployed,None,No,No,Yes,No,No,Married,None,50,Medium,2-5 years,High
+148,Poor,Medium,Employee,None,Yes,No,Yes,No,No,Single,Personal,23,High,5 years,Low
+149,Good,Medium,Partner,Life,Yes,No,No,No,Yes,Single,Personal,29,Medium,1 year,Medium
+150,Poor,Medium,Partner,None,Yes,No,No,Yes,Yes,Divorced,None,51,Medium,2-5 years,High
+151,Good,Medium,Employee,Home Owner,No,No,No,No,Yes,Divorced,Personal,48,Medium,5 years,Low
+152,Good,Low,Unemployed,Auto,Yes,No,No,Yes,No,Single,None,42,Medium,5 years,Medium
+153,Excellent,Medium,Employee,Life,No,No,Yes,No,Yes,Divorced,Home,56,High,2-5 years,High
+154,Poor,Medium,Partner,None,Yes,No,Yes,No,Yes,Single,Personal,44,High,5 years,Medium
+155,Excellent,High,Employee,Auto,No,No,Yes,No,No,Single,Auto,23,Low,1 year,Low
+156,Poor,Medium,Unemployed,Auto,Yes,No,Yes,Yes,Yes,Married,Personal,47,High,5 years,High
+157,Poor,Low,Partner,Home Owner,No,No,Yes,Yes,Yes,Married,None,42,Low,5 years,Low
+158,Good,Medium,Unemployed,None,No,Yes,No,Yes,No,Single,None,42,Medium,2-5 years,Medium
+159,Poor,High,Partner,None,Yes,Yes,No,Yes,No,Married,Auto,49,High,1 year,High
+160,Good,High,Unemployed,Auto,No,No,No,Yes,Yes,Married,Home,39,Medium,5 years,Low
+161,Good,Medium,Unemployed,None,Yes,No,No,Yes,Yes,Divorced,Auto,31,High,2-5 years,Medium
+162,Good,High,Partner,Life,Yes,No,No,No,Yes,Single,Personal,51,Low,1 year,High
+163,Good,Low,Unemployed,Life,Yes,Yes,No,No,Yes,Married,None,49,Low,5 years,Low
+164,Good,High,Employee,Auto,Yes,Yes,No,No,Yes,Married,None,49,Medium,5 years,Low
+165,Poor,Medium,Partner,Home Owner,Yes,Yes,No,No,No,Single,Personal,36,Medium,5 years,Low
+166,Good,High,Employee,None,Yes,Yes,No,No,Yes,Married,Personal,30,Medium,5 years,Medium
+167,Poor,High,Unemployed,Auto,No,No,Yes,No,Yes,Divorced,Personal,38,Low,1 year,High
+168,Good,Low,Employee,Life,No,No,No,Yes,Yes,Married,Auto,33,Medium,2-5 years,Medium
+169,Good,Medium,Employee,Life,Yes,No,Yes,Yes,No,Single,None,31,Medium,1 year,Medium
+170,Good,High,Unemployed,Home Owner,Yes,No,No,Yes,No,Divorced,Home,40,Low,5 years,High
+171,Excellent,High,Partner,Home Owner,No,No,No,Yes,Yes,Single,None,23,Low,5 years,Low
+172,Excellent,Medium,Unemployed,Home Owner,Yes,No,Yes,No,No,Single,Home,50,High,5 years,High
+173,Poor,High,Unemployed,None,No,No,Yes,No,No,Married,Auto,40,High,5 years,Medium
+174,Poor,Low,Unemployed,Home Owner,Yes,No,No,Yes,Yes,Married,Home,53,High,5 years,High
+175,Poor,Low,Employee,Life,No,Yes,Yes,Yes,No,Single,None,47,High,1 year,High
+176,Good,Low,Unemployed,Home Owner,No,Yes,No,No,Yes,Married,Auto,36,High,2-5 years,High
+177,Excellent,Low,Partner,Auto,No,No,No,Yes,No,Divorced,None,51,High,5 years,High
+178,Poor,Low,Partner,None,No,No,No,No,Yes,Married,Home,34,Low,2-5 years,Medium
+179,Excellent,Low,Partner,Auto,No,No,No,Yes,No,Single,Personal,30,High,1 year,High
+180,Good,Medium,Partner,Home Owner,No,No,No,Yes,Yes,Married,Personal,64,Low,1 year,High
+181,Good,Low,Partner,Auto,Yes,Yes,Yes,No,Yes,Married,Home,62,High,5 years,Low
+182,Good,Medium,Employee,Home Owner,Yes,No,Yes,Yes,No,Divorced,None,38,High,1 year,Medium
+183,Poor,Low,Partner,Life,Yes,No,No,No,Yes,Single,Personal,21,High,1 year,Low
+184,Excellent,High,Partner,Life,Yes,Yes,No,No,Yes,Divorced,None,58,Medium,1 year,Low
+185,Poor,Medium,Partner,Life,No,No,No,Yes,No,Married,Personal,54,Medium,2-5 years,Medium
+186,Good,Medium,Employee,None,Yes,No,Yes,Yes,No,Married,None,45,Medium,2-5 years,Medium
+187,Good,High,Partner,Home Owner,No,No,Yes,Yes,No,Single,Personal,35,Medium,2-5 years,Medium
+188,Excellent,Low,Partner,Home Owner,No,No,No,No,Yes,Married,None,34,Low,1 year,Low
+189,Poor,Low,Unemployed,Life,No,Yes,Yes,Yes,No,Divorced,None,41,Medium,1 year,High
+190,Poor,Low,Unemployed,None,Yes,Yes,No,Yes,No,Single,Personal,45,High,5 years,Low
+191,Excellent,Medium,Unemployed,Auto,Yes,Yes,No,No,No,Single,Personal,45,Low,1 year,Low
+192,Good,High,Unemployed,Home Owner,No,No,No,No,Yes,Divorced,Personal,37,High,5 years,High
+193,Good,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,Yes,Divorced,Personal,59,Low,2-5 years,High
+194,Excellent,Medium,Employee,Auto,Yes,Yes,Yes,Yes,No,Single,Auto,47,Medium,2-5 years,Low
+195,Poor,High,Partner,Auto,No,Yes,No,No,Yes,Single,Home,36,High,1 year,Medium
+196,Excellent,High,Unemployed,None,Yes,No,No,Yes,Yes,Single,None,27,Low,1 year,Low
+197,Poor,High,Partner,Home Owner,Yes,No,No,Yes,Yes,Single,Auto,51,Low,1 year,High
+198,Poor,High,Partner,Life,No,No,No,Yes,No,Divorced,Home,56,Medium,2-5 years,Medium
+199,Good,Medium,Partner,Auto,Yes,No,No,No,No,Married,Personal,40,High,1 year,Low
+200,Good,Low,Unemployed,Auto,No,No,No,No,Yes,Married,Home,35,Low,2-5 years,Medium
+201,Good,Low,Unemployed,None,Yes,No,Yes,No,Yes,Divorced,Personal,42,Medium,1 year,Medium
+202,Poor,High,Unemployed,Auto,Yes,No,No,Yes,Yes,Single,Home,17,Low,5 years,Low
+203,Good,Low,Unemployed,None,No,No,Yes,No,No,Divorced,None,49,Low,1 year,Low
+204,Excellent,Low,Partner,Home Owner,No,No,No,No,Yes,Single,Auto,37,Medium,1 year,Medium
+205,Excellent,Low,Unemployed,Auto,Yes,No,Yes,Yes,No,Married,Personal,43,Medium,5 years,Medium
+206,Poor,Medium,Unemployed,Home Owner,No,No,No,No,Yes,Divorced,Home,41,Medium,1 year,Low
+207,Excellent,Medium,Unemployed,Home Owner,Yes,No,Yes,No,Yes,Divorced,Home,49,Medium,5 years,Low
+208,Excellent,Low,Unemployed,Home Owner,Yes,No,No,No,No,Divorced,Auto,38,High,2-5 years,Low
+209,Poor,Medium,Employee,None,No,No,No,Yes,No,Married,Personal,33,Low,2-5 years,Medium
+210,Excellent,Low,Unemployed,Home Owner,No,No,No,No,Yes,Single,Home,14,Medium,1 year,Medium
+211,Excellent,Medium,Unemployed,Home Owner,No,No,Yes,Yes,Yes,Divorced,Home,42,High,5 years,Low
+212,Good,Medium,Employee,Life,Yes,No,Yes,Yes,Yes,Married,Personal,49,Low,2-5 years,Medium
+213,Excellent,Medium,Employee,Home Owner,Yes,No,No,No,Yes,Divorced,None,46,High,1 year,Low
+214,Good,Low,Partner,Home Owner,No,No,No,Yes,Yes,Married,Home,38,Low,1 year,High
+215,Poor,High,Employee,Auto,No,No,No,No,No,Single,None,28,Low,2-5 years,Low
+216,Excellent,High,Employee,None,Yes,No,No,No,No,Married,Home,51,High,2-5 years,Low
+217,Excellent,High,Employee,Life,No,Yes,No,No,Yes,Single,Personal,48,Medium,5 years,High
+218,Poor,Medium,Employee,Life,Yes,Yes,Yes,No,No,Single,Personal,31,High,1 year,High
+219,Good,High,Employee,Auto,Yes,No,No,No,Yes,Single,Auto,18,High,2-5 years,High
+220,Poor,Low,Employee,Home Owner,Yes,No,Yes,Yes,Yes,Divorced,Home,42,Medium,1 year,High
+221,Excellent,Low,Partner,Auto,Yes,Yes,Yes,Yes,No,Married,Home,45,Medium,5 years,Medium
+222,Excellent,Low,Unemployed,Life,Yes,Yes,No,No,Yes,Married,None,33,Medium,2-5 years,High
+223,Excellent,Low,Partner,None,Yes,Yes,Yes,Yes,No,Single,Home,27,Low,1 year,Low
+224,Excellent,Low,Unemployed,None,Yes,No,No,No,Yes,Single,None,20,High,1 year,High
+225,Excellent,Medium,Employee,Life,No,No,No,Yes,No,Single,Home,26,Medium,5 years,Medium
+226,Poor,Low,Employee,None,No,No,No,Yes,No,Divorced,None,71,Medium,2-5 years,High
+227,Poor,High,Unemployed,None,Yes,No,No,Yes,Yes,Single,Home,39,Low,2-5 years,Medium
+228,Good,Medium,Partner,Home Owner,Yes,No,Yes,No,No,Married,None,44,High,2-5 years,Low
+229,Good,High,Employee,Home Owner,No,No,No,Yes,Yes,Single,None,26,Low,2-5 years,High
+230,Poor,High,Employee,None,Yes,No,Yes,Yes,No,Divorced,Personal,29,Low,1 year,High
+231,Poor,High,Employee,Life,No,No,No,Yes,No,Married,Auto,56,Medium,5 years,High
+232,Poor,Low,Unemployed,Home Owner,Yes,No,Yes,No,No,Divorced,Personal,41,High,1 year,Medium
+233,Good,Medium,Partner,None,No,No,No,No,No,Divorced,None,34,Low,1 year,High
+234,Poor,High,Unemployed,Auto,Yes,No,No,Yes,No,Divorced,Auto,40,Medium,1 year,Medium
+235,Poor,Medium,Employee,Auto,Yes,No,No,Yes,No,Single,Personal,30,Low,2-5 years,Medium
+236,Good,Medium,Employee,Auto,Yes,No,Yes,No,No,Single,Home,34,Medium,2-5 years,Low
+237,Good,High,Unemployed,Life,No,Yes,Yes,No,No,Single,None,37,High,5 years,Medium
+238,Good,High,Unemployed,Home Owner,Yes,No,No,No,No,Married,Home,32,Low,1 year,Low
+239,Poor,Medium,Partner,Home Owner,Yes,No,No,No,Yes,Married,Auto,36,Low,5 years,High
+240,Poor,Low,Employee,Auto,Yes,No,No,No,No,Married,Personal,59,High,1 year,Low
+241,Excellent,Low,Partner,Home Owner,Yes,No,Yes,No,No,Single,Home,46,High,5 years,Medium
+242,Good,Medium,Partner,Life,No,No,Yes,Yes,No,Divorced,Home,39,Medium,5 years,High
+243,Poor,Low,Partner,Auto,No,No,No,No,No,Single,None,38,Low,5 years,Medium
+244,Poor,High,Unemployed,Life,No,Yes,No,Yes,Yes,Single,Home,27,High,2-5 years,Medium
+245,Good,Medium,Partner,Auto,No,Yes,No,No,Yes,Single,None,34,High,1 year,High
+246,Poor,Low,Unemployed,Life,No,No,No,Yes,No,Married,Home,36,High,1 year,High
+247,Excellent,Medium,Partner,Home Owner,Yes,Yes,Yes,Yes,Yes,Married,Home,39,Low,5 years,Medium
+248,Excellent,High,Unemployed,Home Owner,No,No,Yes,Yes,Yes,Single,Personal,29,Medium,2-5 years,Medium
+249,Good,Low,Unemployed,Life,No,No,No,Yes,Yes,Single,None,30,Medium,5 years,Medium
+250,Poor,Medium,Partner,Home Owner,Yes,No,No,Yes,Yes,Divorced,None,46,High,1 year,Low
+251,Excellent,Medium,Employee,Home Owner,No,No,Yes,Yes,No,Married,None,38,Low,5 years,Low
+252,Poor,Low,Partner,Home Owner,No,No,Yes,Yes,No,Divorced,None,34,Low,2-5 years,High
+253,Poor,High,Unemployed,None,Yes,No,No,Yes,No,Single,Home,67,Medium,5 years,High
+254,Excellent,High,Partner,None,No,Yes,No,Yes,No,Married,Home,49,Low,1 year,Medium
+255,Good,Medium,Partner,Auto,Yes,Yes,No,Yes,Yes,Divorced,Home,36,Medium,1 year,Low
+256,Good,Low,Partner,Life,No,No,No,Yes,No,Single,Auto,34,Low,2-5 years,High
+257,Poor,Low,Partner,Life,Yes,No,No,No,No,Married,Auto,41,High,2-5 years,Medium
+258,Poor,Medium,Unemployed,Home Owner,No,No,Yes,No,Yes,Divorced,Home,45,Medium,1 year,High
+259,Good,Medium,Unemployed,None,No,Yes,Yes,Yes,No,Single,Home,43,Low,2-5 years,Low
+260,Poor,Low,Employee,Home Owner,Yes,No,Yes,Yes,No,Married,None,49,High,2-5 years,High
+261,Good,High,Employee,Home Owner,Yes,No,Yes,No,Yes,Single,Auto,40,Low,2-5 years,High
+262,Excellent,Medium,Partner,Home Owner,No,Yes,Yes,Yes,Yes,Divorced,Auto,46,Medium,1 year,Medium
+263,Poor,High,Employee,Auto,No,No,Yes,Yes,No,Divorced,None,63,High,2-5 years,Medium
+264,Poor,High,Partner,Auto,No,Yes,No,No,No,Single,Personal,22,High,5 years,Low
+265,Good,Low,Partner,Life,Yes,No,Yes,No,Yes,Single,Auto,34,Low,1 year,Medium
+266,Poor,Low,Employee,Auto,No,No,No,No,Yes,Divorced,Home,48,Medium,1 year,Low
+267,Excellent,Low,Partner,Auto,No,No,No,Yes,No,Divorced,None,38,Medium,5 years,Medium
+268,Excellent,Low,Employee,Life,No,No,Yes,Yes,No,Married,Personal,49,High,2-5 years,Low
+269,Good,Low,Unemployed,Home Owner,No,No,Yes,No,No,Married,Home,33,High,1 year,Low
+270,Good,Low,Unemployed,Home Owner,Yes,No,Yes,No,Yes,Single,Auto,26,Medium,1 year,Low
+271,Good,Medium,Unemployed,Life,Yes,Yes,Yes,No,Yes,Married,Home,48,Medium,2-5 years,Medium
+272,Excellent,High,Employee,Home Owner,No,No,No,No,No,Married,Home,34,Low,1 year,Low
+273,Poor,High,Partner,Home Owner,No,No,No,No,Yes,Divorced,Personal,37,High,5 years,Medium
+274,Excellent,High,Partner,Life,No,Yes,Yes,Yes,No,Single,Personal,31,Medium,5 years,Low
+275,Excellent,Low,Employee,Auto,Yes,No,Yes,Yes,No,Divorced,Home,44,Medium,2-5 years,Medium
+276,Excellent,Medium,Unemployed,Life,Yes,Yes,Yes,No,Yes,Single,Personal,50,Medium,5 years,Medium
+277,Good,Low,Employee,Life,Yes,No,No,No,No,Divorced,Home,35,Low,1 year,Medium
+278,Poor,High,Partner,Home Owner,No,No,Yes,No,Yes,Divorced,None,53,Medium,5 years,High
+279,Poor,Low,Partner,Home Owner,Yes,No,Yes,No,Yes,Single,Home,29,Medium,2-5 years,Medium
+280,Excellent,Low,Employee,Auto,Yes,No,No,Yes,Yes,Married,Home,44,High,5 years,High
+281,Poor,Low,Partner,Home Owner,Yes,Yes,No,Yes,No,Married,Personal,28,High,1 year,Medium
+282,Excellent,Medium,Employee,Auto,Yes,No,Yes,Yes,Yes,Divorced,Home,39,Low,2-5 years,Medium
+283,Good,Medium,Employee,Home Owner,Yes,No,Yes,No,Yes,Single,None,42,Low,5 years,High
+284,Excellent,Medium,Partner,Life,No,No,Yes,No,Yes,Married,None,39,Low,5 years,Low
+285,Good,Low,Employee,Home Owner,Yes,No,No,No,No,Single,Auto,33,Low,5 years,Medium
+286,Poor,Medium,Partner,Life,No,Yes,No,No,Yes,Divorced,Home,33,High,1 year,Low
+287,Good,High,Partner,Home Owner,No,No,Yes,No,No,Single,None,45,Low,1 year,Low
+288,Good,Medium,Unemployed,Auto,No,No,No,Yes,No,Divorced,None,49,Medium,5 years,Medium
+289,Poor,Low,Partner,Life,Yes,No,No,No,Yes,Married,Personal,43,High,5 years,Low
+290,Excellent,Low,Partner,Auto,Yes,No,No,No,Yes,Married,Home,32,Medium,5 years,High
+291,Poor,Low,Partner,Auto,No,No,Yes,No,No,Divorced,Home,48,High,1 year,High
+292,Excellent,Low,Employee,Home Owner,No,No,No,No,No,Single,Auto,42,Low,2-5 years,High
+293,Poor,Low,Employee,Auto,Yes,No,No,No,Yes,Single,Home,39,Low,2-5 years,Medium
+294,Good,Medium,Employee,Life,Yes,No,No,Yes,No,Single,None,23,Low,5 years,High
+295,Excellent,Low,Unemployed,Home Owner,No,Yes,Yes,Yes,Yes,Married,Auto,39,High,5 years,Low
+296,Excellent,Low,Partner,Home Owner,No,Yes,No,No,No,Divorced,None,44,Low,2-5 years,Low
+297,Excellent,Medium,Unemployed,Life,Yes,Yes,No,Yes,Yes,Divorced,Home,42,Low,1 year,Medium
+298,Good,Low,Partner,Life,No,Yes,No,No,No,Single,Auto,40,Medium,5 years,Medium
+299,Poor,Medium,Partner,Life,Yes,No,No,Yes,No,Married,None,45,High,2-5 years,Low
+300,Poor,Medium,Employee,Auto,Yes,No,No,No,Yes,Married,None,32,Low,1 year,Medium
+301,Poor,Medium,Unemployed,Auto,Yes,No,No,Yes,Yes,Married,None,47,High,1 year,High
+302,Excellent,Medium,Unemployed,Life,No,No,No,Yes,Yes,Single,Home,51,Medium,5 years,Low
+303,Poor,High,Partner,Home Owner,No,No,No,Yes,No,Divorced,Auto,38,High,2-5 years,Low
+304,Excellent,Low,Unemployed,Auto,No,No,Yes,No,Yes,Single,None,23,Low,5 years,Medium
+305,Excellent,Low,Employee,Auto,Yes,Yes,No,Yes,No,Single,Home,26,Low,2-5 years,Low
+306,Good,High,Partner,Auto,No,No,No,No,No,Divorced,Home,63,High,5 years,Medium
+307,Good,Medium,Partner,Home Owner,No,No,No,Yes,Yes,Single,Home,36,Medium,2-5 years,Medium
+308,Poor,High,Unemployed,Home Owner,No,No,No,No,No,Married,Home,36,High,1 year,High
+309,Good,Medium,Employee,Home Owner,Yes,No,No,No,Yes,Single,Home,36,Medium,2-5 years,High
+310,Good,High,Unemployed,Auto,No,No,Yes,Yes,No,Single,None,24,High,5 years,Medium
+311,Good,Low,Unemployed,Life,No,No,Yes,No,No,Single,Home,14,Low,2-5 years,Low
+312,Good,Low,Unemployed,Home Owner,No,Yes,No,Yes,Yes,Divorced,Auto,39,Medium,1 year,High
+313,Good,Low,Partner,Life,Yes,No,No,Yes,No,Divorced,Personal,44,Medium,1 year,Low
+314,Excellent,Low,Unemployed,Auto,No,Yes,No,Yes,No,Married,None,39,Medium,1 year,Low
+315,Excellent,Low,Partner,Life,Yes,No,No,Yes,Yes,Single,Auto,39,High,2-5 years,Medium
+316,Excellent,Low,Unemployed,Auto,No,Yes,Yes,No,Yes,Single,Auto,26,Low,5 years,Medium
+317,Excellent,High,Unemployed,Auto,No,Yes,No,Yes,No,Married,Personal,68,High,2-5 years,Medium
+318,Poor,High,Partner,Home Owner,No,No,Yes,Yes,No,Married,Home,38,Low,5 years,High
+319,Excellent,Low,Partner,Home Owner,No,No,No,Yes,No,Single,Home,27,High,1 year,Low
+320,Good,High,Employee,Home Owner,No,Yes,No,No,No,Single,Home,61,High,5 years,High
+321,Poor,Medium,Employee,Auto,Yes,Yes,No,No,No,Single,None,38,Medium,1 year,High
+322,Poor,Low,Partner,Auto,No,No,Yes,No,No,Married,None,42,High,2-5 years,Medium
+323,Poor,Low,Partner,Auto,Yes,No,Yes,Yes,Yes,Divorced,None,40,Low,1 year,Low
+324,Good,Low,Unemployed,Auto,No,No,No,No,No,Married,None,37,Medium,2-5 years,Low
+325,Poor,High,Unemployed,Life,Yes,No,Yes,No,Yes,Married,None,30,Medium,2-5 years,High
+326,Excellent,Low,Employee,Auto,No,Yes,No,No,No,Married,None,35,Medium,1 year,Medium
+327,Good,High,Employee,Life,Yes,Yes,No,Yes,No,Married,Auto,59,High,5 years,Medium
+328,Poor,Low,Unemployed,Home Owner,No,Yes,Yes,No,Yes,Divorced,Auto,42,Low,2-5 years,Low
+329,Poor,Low,Employee,Home Owner,Yes,No,No,No,No,Married,None,46,Medium,1 year,High
+330,Poor,High,Employee,Home Owner,Yes,No,No,Yes,No,Single,Auto,50,High,1 year,Low
+331,Poor,High,Partner,Auto,Yes,Yes,No,No,No,Divorced,None,33,Low,5 years,Low
+332,Excellent,High,Unemployed,Auto,No,No,Yes,No,No,Single,Auto,20,Medium,5 years,High
+333,Excellent,High,Employee,Auto,No,No,Yes,Yes,No,Single,Personal,37,Low,1 year,Medium
+334,Poor,Low,Partner,Home Owner,No,No,No,Yes,No,Single,None,48,Low,5 years,Medium
+335,Good,Low,Unemployed,Life,No,No,No,No,Yes,Married,Personal,50,Medium,2-5 years,Medium
+336,Excellent,Medium,Unemployed,Life,Yes,No,Yes,No,No,Married,Home,60,High,1 year,Low
+337,Good,High,Unemployed,Life,Yes,Yes,Yes,No,Yes,Divorced,Home,35,Medium,1 year,Medium
+338,Excellent,Low,Unemployed,Life,No,No,Yes,Yes,No,Married,None,41,Medium,1 year,Low
+339,Good,High,Employee,Life,No,No,No,No,No,Single,Auto,56,High,5 years,High
+340,Excellent,Medium,Unemployed,Auto,Yes,No,Yes,No,No,Single,None,42,Low,2-5 years,High
+341,Excellent,Low,Employee,Auto,Yes,Yes,No,No,Yes,Single,Auto,29,Low,1 year,Medium
+342,Good,Medium,Partner,Auto,No,Yes,No,Yes,No,Married,Auto,64,Low,5 years,High
+343,Good,Low,Employee,Home Owner,No,No,Yes,No,Yes,Single,None,28,High,2-5 years,Low
+344,Excellent,Low,Partner,Home Owner,Yes,No,No,No,No,Married,None,36,Medium,5 years,Low
+345,Excellent,High,Unemployed,Life,No,No,Yes,No,Yes,Married,Auto,39,High,5 years,Low
+346,Poor,Medium,Partner,Life,No,No,Yes,No,No,Single,Personal,16,Low,1 year,Low
+347,Good,Low,Partner,Home Owner,Yes,No,Yes,No,No,Married,Auto,41,Medium,5 years,High
+348,Poor,High,Employee,Auto,Yes,Yes,Yes,No,Yes,Married,Personal,58,Low,5 years,High
+349,Good,Low,Unemployed,Auto,Yes,Yes,No,Yes,Yes,Single,Personal,27,Medium,5 years,High
+350,Good,High,Partner,Auto,Yes,Yes,Yes,Yes,No,Divorced,None,54,Medium,2-5 years,Medium
+351,Good,High,Partner,Home Owner,Yes,Yes,No,Yes,No,Divorced,Home,31,High,2-5 years,Medium
+352,Excellent,High,Employee,Life,No,No,No,No,Yes,Single,Auto,25,High,5 years,Medium
+353,Excellent,High,Partner,Home Owner,No,Yes,No,Yes,No,Single,Home,28,Low,5 years,Low
+354,Poor,Medium,Unemployed,Life,No,No,No,Yes,No,Married,None,74,Low,5 years,High
+355,Poor,Medium,Partner,Home Owner,Yes,No,Yes,No,Yes,Divorced,Personal,39,High,5 years,High
+356,Excellent,Medium,Partner,Life,Yes,No,Yes,No,No,Single,Home,30,Low,2-5 years,High
+357,Good,High,Employee,Auto,No,No,No,Yes,No,Divorced,Auto,59,Low,5 years,High
+358,Poor,Low,Partner,Home Owner,Yes,No,Yes,Yes,No,Single,Auto,75,Medium,2-5 years,Low
+359,Poor,Low,Unemployed,Home Owner,Yes,No,No,Yes,No,Married,Personal,44,Medium,2-5 years,High
+360,Poor,Low,Unemployed,Home Owner,No,No,Yes,Yes,No,Single,Home,46,Low,1 year,Low
+361,Good,Low,Unemployed,Life,Yes,Yes,Yes,Yes,No,Divorced,Home,42,Low,5 years,Low
+362,Good,Low,Partner,Auto,No,Yes,No,No,Yes,Divorced,Personal,44,High,2-5 years,Low
+363,Good,Low,Unemployed,Auto,Yes,Yes,No,No,Yes,Married,Home,40,High,2-5 years,High
+364,Poor,High,Employee,Auto,Yes,Yes,Yes,Yes,No,Divorced,Home,45,High,5 years,High
+365,Good,Low,Employee,Auto,Yes,Yes,No,No,Yes,Single,Home,63,High,2-5 years,Low
+366,Good,High,Employee,Auto,Yes,Yes,No,No,Yes,Divorced,Auto,33,Low,2-5 years,High
+367,Excellent,Low,Partner,Life,Yes,Yes,Yes,No,No,Single,Auto,28,Low,2-5 years,Low
+368,Good,Low,Employee,Home Owner,Yes,Yes,Yes,No,Yes,Divorced,Auto,54,High,2-5 years,High
+369,Good,High,Partner,Home Owner,Yes,Yes,Yes,No,Yes,Single,Personal,29,Low,5 years,Low
+370,Poor,Low,Unemployed,Life,No,No,Yes,Yes,No,Single,None,31,Low,1 year,High
+371,Poor,Medium,Unemployed,Auto,Yes,No,No,No,No,Single,Home,35,Low,2-5 years,Low
+372,Good,Low,Employee,Auto,No,No,Yes,No,Yes,Single,Personal,59,High,1 year,Medium
+373,Good,Medium,Partner,Life,Yes,No,Yes,No,Yes,Single,Personal,25,Low,5 years,High
+374,Excellent,Medium,Partner,Life,No,No,Yes,Yes,No,Single,Home,54,Medium,1 year,Medium
+375,Good,Medium,Partner,Life,Yes,Yes,Yes,Yes,No,Single,None,32,Low,5 years,Medium
+376,Good,Medium,Employee,Life,Yes,No,Yes,No,Yes,Married,Auto,39,High,2-5 years,Low
+377,Poor,Low,Unemployed,Auto,Yes,Yes,Yes,No,Yes,Married,Personal,37,High,5 years,Medium
+378,Poor,High,Employee,Auto,No,Yes,No,No,Yes,Divorced,None,34,Medium,2-5 years,High
+379,Poor,High,Employee,Life,No,Yes,Yes,Yes,Yes,Married,Personal,42,Medium,1 year,High
+380,Excellent,Medium,Employee,Auto,No,Yes,No,No,Yes,Single,Personal,40,Low,1 year,Medium
+381,Excellent,High,Partner,Life,Yes,No,Yes,No,No,Divorced,Personal,48,High,1 year,High
+382,Good,High,Partner,Auto,No,No,Yes,No,Yes,Divorced,Auto,39,Low,2-5 years,High
+383,Poor,Medium,Unemployed,Auto,No,No,Yes,No,Yes,Single,Auto,22,Medium,1 year,Low
+384,Poor,Medium,Partner,Home Owner,No,No,Yes,Yes,Yes,Married,Home,40,Low,5 years,Low
+385,Excellent,Medium,Partner,Auto,No,No,No,Yes,Yes,Single,Home,15,Low,1 year,Medium
+386,Excellent,High,Unemployed,Life,Yes,Yes,No,Yes,No,Married,Auto,40,Low,5 years,Low
+387,Good,Low,Unemployed,Life,No,Yes,Yes,No,Yes,Married,Personal,37,High,1 year,Low
+388,Poor,High,Employee,Life,Yes,No,Yes,Yes,Yes,Married,None,53,Low,2-5 years,High
+389,Good,Low,Employee,Life,Yes,No,No,Yes,Yes,Married,Home,39,Low,1 year,High
+390,Excellent,High,Partner,Life,Yes,No,No,No,Yes,Single,None,42,Medium,1 year,Medium
+391,Poor,Low,Employee,Life,No,No,No,No,Yes,Single,None,18,Low,1 year,High
+392,Poor,High,Unemployed,Auto,No,No,No,No,No,Divorced,Auto,39,Low,2-5 years,Low
+393,Poor,Medium,Unemployed,Home Owner,No,No,No,Yes,Yes,Married,None,65,Low,5 years,High
+394,Excellent,High,Unemployed,Life,Yes,No,No,No,No,Married,Personal,55,Medium,1 year,Medium
+395,Excellent,Medium,Unemployed,Auto,No,No,No,No,Yes,Single,None,39,High,5 years,High
+396,Poor,High,Employee,Home Owner,Yes,Yes,Yes,No,Yes,Divorced,None,52,High,2-5 years,Medium
+397,Poor,High,Unemployed,Auto,No,No,No,Yes,No,Single,None,31,High,1 year,Medium
+398,Excellent,High,Employee,Auto,Yes,Yes,Yes,No,No,Divorced,Home,45,Low,1 year,Medium
+399,Good,Low,Partner,Life,Yes,No,Yes,Yes,No,Single,Personal,55,Medium,5 years,High
+400,Poor,Medium,Partner,Auto,Yes,No,Yes,Yes,No,Single,None,38,Medium,2-5 years,Medium
+401,Good,Low,Unemployed,Auto,No,No,No,Yes,Yes,Divorced,Home,37,High,5 years,Medium
+402,Poor,Medium,Partner,Life,No,No,Yes,No,No,Single,Auto,30,Low,2-5 years,High
+403,Poor,High,Employee,Auto,No,No,Yes,Yes,No,Married,None,64,Low,1 year,Medium
+404,Good,Low,Unemployed,Auto,No,Yes,Yes,Yes,Yes,Single,Personal,20,High,5 years,High
+405,Poor,Low,Partner,Life,Yes,Yes,Yes,No,No,Divorced,None,44,Medium,2-5 years,High
+406,Good,Low,Employee,Auto,Yes,Yes,No,Yes,Yes,Single,None,36,High,5 years,High
+407,Poor,Low,Unemployed,Life,No,Yes,Yes,Yes,Yes,Divorced,Personal,47,Low,1 year,Low
+408,Good,Low,Employee,Life,No,Yes,No,Yes,No,Divorced,Home,45,Medium,2-5 years,Low
+409,Good,Low,Partner,Auto,No,No,No,Yes,No,Single,None,19,High,5 years,Medium
+410,Poor,Low,Employee,Auto,No,No,Yes,Yes,Yes,Married,None,70,Medium,2-5 years,Medium
+411,Poor,Low,Unemployed,Life,No,Yes,Yes,Yes,Yes,Divorced,Personal,40,Low,1 year,Low
+412,Good,High,Unemployed,Auto,Yes,Yes,No,Yes,Yes,Single,Auto,20,High,1 year,Low
+413,Poor,Medium,Unemployed,Auto,No,Yes,Yes,Yes,Yes,Single,Personal,39,High,2-5 years,High
+414,Poor,Medium,Unemployed,Life,No,Yes,No,Yes,Yes,Married,Home,46,High,5 years,Medium
+415,Excellent,High,Unemployed,Life,Yes,No,No,Yes,No,Single,Home,49,Low,2-5 years,Medium
+416,Good,High,Unemployed,Auto,Yes,No,No,No,No,Single,Auto,22,High,2-5 years,High
+417,Good,Low,Unemployed,Home Owner,Yes,No,No,No,No,Married,Auto,35,Medium,2-5 years,High
+418,Good,Medium,Unemployed,Auto,No,No,No,No,Yes,Divorced,Auto,43,Low,1 year,High
+419,Good,Low,Partner,Home Owner,Yes,Yes,Yes,No,No,Single,None,16,Low,1 year,High
+420,Poor,High,Employee,Life,No,No,No,Yes,No,Single,Auto,45,Medium,2-5 years,Medium
+421,Poor,High,Unemployed,Auto,No,Yes,No,No,Yes,Single,Auto,51,Low,2-5 years,Low
+422,Excellent,Low,Unemployed,Life,Yes,No,No,Yes,Yes,Single,None,30,Low,5 years,Medium
+423,Excellent,High,Employee,Life,Yes,Yes,Yes,No,Yes,Married,None,54,Low,1 year,Medium
+424,Good,Medium,Unemployed,Life,No,No,Yes,No,Yes,Single,Auto,17,Medium,5 years,High
+425,Poor,Medium,Unemployed,Home Owner,No,No,No,No,No,Divorced,Auto,39,Low,2-5 years,Low
+426,Poor,Medium,Unemployed,Home Owner,Yes,Yes,No,No,No,Divorced,Auto,50,High,2-5 years,High
+427,Poor,High,Unemployed,Auto,No,No,No,No,No,Single,Auto,26,Low,2-5 years,Medium
+428,Excellent,Medium,Partner,Home Owner,Yes,No,No,Yes,No,Single,Personal,17,High,1 year,Low
+429,Excellent,Medium,Unemployed,Life,Yes,No,Yes,Yes,No,Single,None,27,Low,2-5 years,High
+430,Good,Medium,Unemployed,Auto,No,No,No,No,No,Divorced,Personal,35,High,1 year,High
+431,Good,Low,Unemployed,Auto,No,No,Yes,No,Yes,Divorced,Personal,44,Medium,1 year,Low
+432,Good,Medium,Unemployed,Auto,No,No,Yes,No,No,Married,None,40,Low,5 years,Low
+433,Good,Medium,Employee,Life,Yes,Yes,No,Yes,Yes,Divorced,Home,59,Medium,1 year,Medium
+434,Excellent,Low,Partner,Home Owner,Yes,No,Yes,Yes,Yes,Married,Personal,44,Low,1 year,Low
+435,Poor,Low,Unemployed,Auto,Yes,No,Yes,No,Yes,Married,Personal,37,High,5 years,Low
+436,Poor,Medium,Employee,Home Owner,No,No,Yes,Yes,Yes,Married,None,41,Medium,2-5 years,Low
+437,Excellent,Medium,Employee,Life,Yes,Yes,No,No,No,Single,Home,26,Low,2-5 years,High
+438,Excellent,High,Partner,Auto,Yes,No,Yes,No,No,Single,Auto,44,High,5 years,Low
+439,Poor,High,Unemployed,Home Owner,No,No,No,No,No,Single,None,19,Medium,5 years,Medium
+440,Excellent,Low,Employee,Home Owner,Yes,No,Yes,No,No,Married,Personal,57,Low,1 year,High
+441,Good,High,Unemployed,Home Owner,No,No,No,No,Yes,Single,None,28,High,2-5 years,Medium
+442,Poor,Medium,Partner,Life,Yes,No,Yes,Yes,Yes,Married,Auto,42,High,5 years,Low
+443,Good,Low,Employee,Auto,No,Yes,No,No,No,Married,Personal,44,High,5 years,Medium
+444,Excellent,High,Unemployed,Home Owner,No,No,Yes,Yes,Yes,Divorced,None,38,High,5 years,Medium
+445,Excellent,Low,Partner,Home Owner,No,Yes,No,No,No,Divorced,Personal,67,High,1 year,High
+446,Good,Low,Employee,Auto,No,Yes,No,No,Yes,Single,Personal,60,High,5 years,Medium
+447,Poor,High,Employee,Life,Yes,No,Yes,Yes,Yes,Single,Home,61,Medium,5 years,Medium
+448,Excellent,Low,Employee,Life,No,No,No,No,Yes,Married,Auto,43,Medium,1 year,Medium
+449,Poor,Medium,Employee,Auto,No,No,Yes,Yes,No,Single,Personal,29,Medium,5 years,High
+450,Excellent,Low,Unemployed,Home Owner,Yes,No,Yes,No,No,Single,None,26,Medium,5 years,Low
+451,Good,Low,Unemployed,Home Owner,Yes,No,Yes,Yes,Yes,Married,Auto,38,High,1 year,High
+452,Excellent,Low,Partner,Home Owner,Yes,No,Yes,No,No,Divorced,Auto,53,High,2-5 years,Medium
+453,Poor,Low,Partner,Auto,Yes,No,Yes,No,No,Single,Auto,38,Medium,2-5 years,Medium
+454,Poor,Low,Partner,Life,No,No,No,Yes,Yes,Married,None,41,Medium,5 years,Low
+455,Poor,High,Partner,Home Owner,Yes,No,No,Yes,No,Single,Personal,19,Low,2-5 years,Medium
+456,Poor,Low,Unemployed,Life,No,No,Yes,No,Yes,Married,Personal,44,Low,5 years,High
+457,Good,High,Employee,Auto,No,No,Yes,No,No,Married,Personal,41,Medium,1 year,Low
+458,Excellent,Medium,Partner,Home Owner,No,No,Yes,No,No,Single,Auto,39,Medium,5 years,High
+459,Good,High,Partner,Life,Yes,No,Yes,No,No,Married,Home,39,Medium,1 year,Low
+460,Poor,Medium,Unemployed,Life,No,No,Yes,Yes,No,Divorced,None,41,High,1 year,High
+461,Good,Low,Employee,Auto,Yes,No,Yes,Yes,No,Divorced,Personal,39,High,2-5 years,Medium
+462,Poor,Low,Partner,Home Owner,No,Yes,No,No,No,Single,Personal,31,Medium,1 year,Medium
+463,Good,High,Partner,Home Owner,No,Yes,No,Yes,Yes,Single,Personal,21,Medium,2-5 years,Low
+464,Good,High,Unemployed,Life,Yes,Yes,No,Yes,No,Married,Auto,43,High,2-5 years,High
+465,Poor,Low,Partner,Home Owner,Yes,No,No,No,Yes,Married,Auto,40,High,1 year,Low
+466,Good,Low,Unemployed,Auto,Yes,No,No,No,No,Married,Auto,35,Low,2-5 years,Low
+467,Poor,High,Partner,Auto,No,Yes,No,Yes,Yes,Married,Personal,69,Low,2-5 years,Medium
+468,Poor,Low,Partner,Auto,No,No,No,No,No,Married,Personal,35,Low,5 years,High
+469,Excellent,Low,Unemployed,Home Owner,No,No,No,No,Yes,Single,Auto,53,Low,5 years,Low
+470,Excellent,Medium,Employee,Home Owner,No,No,Yes,Yes,No,Divorced,None,32,High,2-5 years,Medium
+471,Poor,Low,Partner,Auto,Yes,No,No,No,Yes,Married,Home,36,Low,1 year,High
+472,Excellent,High,Unemployed,Auto,Yes,Yes,Yes,Yes,Yes,Divorced,Auto,39,High,1 year,High
+473,Excellent,High,Employee,Life,Yes,Yes,No,No,No,Single,Home,62,Low,1 year,High
+474,Poor,High,Employee,Life,No,Yes,No,No,No,Married,None,48,Low,5 years,High
+475,Good,High,Partner,Life,No,Yes,No,No,No,Married,Auto,60,Low,2-5 years,Low
+476,Excellent,Low,Employee,Auto,Yes,No,Yes,No,Yes,Divorced,Home,36,Medium,1 year,Low
+477,Excellent,Low,Unemployed,Auto,Yes,Yes,No,No,No,Single,Personal,32,Medium,2-5 years,High
+478,Good,High,Unemployed,Home Owner,No,No,No,No,Yes,Married,Personal,41,Medium,1 year,Low
+479,Excellent,Low,Partner,Home Owner,Yes,Yes,No,No,Yes,Divorced,Home,36,High,2-5 years,Low
+480,Poor,High,Partner,Life,No,Yes,No,No,No,Divorced,Auto,41,Low,5 years,Medium
+481,Poor,Medium,Partner,Home Owner,Yes,No,No,Yes,Yes,Divorced,Auto,48,High,2-5 years,High
+482,Good,Medium,Partner,Home Owner,No,No,Yes,No,Yes,Single,Personal,19,Medium,5 years,High
+483,Excellent,Medium,Employee,Life,Yes,No,No,Yes,Yes,Divorced,Auto,38,High,1 year,Medium
+484,Poor,Medium,Employee,Auto,Yes,Yes,No,No,Yes,Married,Home,50,Low,2-5 years,Medium
+485,Good,Low,Employee,Life,Yes,Yes,No,Yes,Yes,Married,Auto,42,Medium,1 year,High
+486,Poor,Low,Employee,Auto,Yes,No,Yes,Yes,No,Single,Personal,44,Low,1 year,High
+487,Good,Medium,Unemployed,Auto,No,Yes,Yes,No,Yes,Married,Personal,67,High,2-5 years,Medium
+488,Poor,Low,Partner,Home Owner,No,No,No,Yes,No,Divorced,Auto,63,Medium,2-5 years,Medium
+489,Poor,Low,Partner,Auto,No,No,Yes,Yes,Yes,Divorced,Personal,53,High,5 years,Low
+490,Excellent,Low,Unemployed,Auto,Yes,Yes,Yes,No,No,Single,Auto,38,High,5 years,High
+491,Excellent,High,Partner,Home Owner,No,Yes,Yes,No,No,Divorced,None,46,Medium,2-5 years,High
+492,Excellent,Low,Employee,Home Owner,Yes,Yes,Yes,Yes,No,Single,Auto,27,Medium,1 year,Medium
+493,Good,High,Employee,Home Owner,Yes,Yes,No,No,No,Divorced,None,36,Medium,5 years,Medium
+494,Excellent,Low,Employee,Home Owner,No,No,No,Yes,No,Single,Auto,24,Low,1 year,Medium
+495,Good,High,Unemployed,Auto,Yes,No,No,Yes,No,Married,None,45,Medium,5 years,Low
+496,Poor,Medium,Unemployed,Auto,No,No,No,Yes,Yes,Divorced,None,43,High,2-5 years,High
+497,Excellent,High,Partner,Home Owner,No,No,No,No,Yes,Divorced,None,36,Low,5 years,Low
+498,Good,Medium,Unemployed,Life,Yes,Yes,Yes,Yes,No,Married,Home,34,Medium,5 years,High
+499,Good,High,Partner,Home Owner,No,Yes,Yes,Yes,Yes,Divorced,Home,39,Medium,5 years,High
+500,Poor,Medium,Unemployed,Auto,Yes,No,No,Yes,Yes,Single,Personal,50,Low,5 years,High
+501,Good,High,Partner,Home Owner,Yes,No,Yes,No,No,Single,None,26,Low,2-5 years,High
+502,Poor,Low,Employee,Life,No,Yes,No,Yes,Yes,Single,Home,56,High,2-5 years,Medium
+503,Good,High,Unemployed,Home Owner,No,Yes,Yes,No,Yes,Married,Personal,48,Low,2-5 years,Low
+504,Poor,High,Partner,Home Owner,Yes,Yes,Yes,No,No,Single,Personal,44,Low,2-5 years,High
+505,Excellent,Low,Employee,Life,No,Yes,No,No,No,Married,Auto,33,Medium,1 year,Low
+506,Excellent,Medium,Employee,Home Owner,Yes,No,Yes,No,Yes,Married,Personal,33,Medium,1 year,Low
+507,Good,Medium,Partner,Home Owner,Yes,Yes,No,Yes,No,Single,None,24,High,5 years,Low
+508,Good,High,Unemployed,Life,Yes,Yes,No,No,No,Single,Home,52,Medium,1 year,Low
+509,Poor,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,No,Single,Personal,28,High,1 year,Low
+510,Good,Low,Employee,Home Owner,No,No,No,Yes,Yes,Single,Personal,39,Low,5 years,Low
+511,Good,Medium,Partner,Life,Yes,Yes,Yes,No,Yes,Married,Auto,36,Low,5 years,Low
+512,Excellent,Low,Employee,Home Owner,No,No,Yes,No,No,Divorced,Auto,33,Low,5 years,High
+513,Excellent,Low,Employee,Life,No,No,Yes,Yes,No,Single,None,28,Low,2-5 years,Medium
+514,Poor,High,Employee,Life,Yes,No,No,Yes,Yes,Single,Personal,28,Low,1 year,Low
+515,Good,High,Unemployed,Home Owner,Yes,Yes,Yes,No,No,Single,None,40,High,5 years,Medium
+516,Good,Low,Employee,Home Owner,No,Yes,No,No,Yes,Single,Home,40,Low,5 years,Medium
+517,Poor,Medium,Partner,Home Owner,No,Yes,No,No,No,Single,None,22,Low,1 year,Medium
+518,Good,High,Partner,Auto,No,No,No,Yes,Yes,Single,Home,32,Medium,1 year,High
+519,Good,Low,Partner,Life,Yes,No,No,No,No,Divorced,Home,44,Low,5 years,High
+520,Good,Low,Partner,Home Owner,No,No,Yes,Yes,Yes,Married,Auto,51,Medium,2-5 years,High
+521,Good,Low,Partner,Auto,No,Yes,No,No,Yes,Divorced,Home,41,Low,5 years,High
+522,Poor,Low,Employee,Home Owner,No,No,Yes,Yes,Yes,Divorced,None,37,Medium,5 years,Low
+523,Good,Low,Unemployed,Auto,No,No,No,Yes,Yes,Divorced,None,39,High,5 years,High
+524,Poor,Medium,Unemployed,Life,Yes,No,No,No,Yes,Single,Auto,21,Low,1 year,High
+525,Poor,Low,Unemployed,Home Owner,No,No,Yes,Yes,No,Single,None,37,High,5 years,Medium
+526,Excellent,Low,Employee,Auto,Yes,Yes,No,Yes,No,Single,None,48,Low,5 years,Medium
+527,Good,High,Employee,Home Owner,Yes,Yes,Yes,No,No,Married,Personal,61,Low,1 year,High
+528,Poor,High,Unemployed,Home Owner,No,Yes,Yes,No,Yes,Single,Personal,28,Low,2-5 years,Medium
+529,Poor,Low,Unemployed,Life,Yes,No,Yes,No,No,Single,None,50,High,1 year,Low
+530,Good,Low,Partner,Auto,Yes,Yes,Yes,Yes,No,Divorced,Personal,73,Low,1 year,High
+531,Excellent,High,Employee,Life,No,Yes,Yes,No,Yes,Married,None,34,Low,1 year,Medium
+532,Poor,Low,Unemployed,Auto,Yes,No,No,No,No,Single,Home,50,High,2-5 years,High
+533,Excellent,High,Employee,Life,Yes,Yes,No,No,No,Married,None,31,High,1 year,Low
+534,Good,Medium,Partner,Home Owner,Yes,No,Yes,Yes,Yes,Single,Home,26,Medium,1 year,High
+535,Poor,Low,Employee,Auto,No,No,Yes,No,Yes,Married,Personal,43,Low,5 years,High
+536,Excellent,Low,Unemployed,Auto,No,Yes,No,No,Yes,Single,None,28,Medium,5 years,Low
+537,Good,Low,Employee,Auto,Yes,Yes,No,No,No,Single,Auto,39,High,5 years,High
+538,Excellent,High,Employee,Home Owner,No,Yes,No,Yes,Yes,Divorced,None,51,Low,2-5 years,Medium
+539,Excellent,Low,Employee,Auto,Yes,No,No,No,Yes,Single,Auto,29,High,2-5 years,High
+540,Poor,High,Partner,Life,No,Yes,No,No,Yes,Single,None,36,High,2-5 years,High
+541,Excellent,Medium,Partner,Auto,Yes,No,Yes,No,No,Married,Personal,42,High,1 year,Medium
+542,Excellent,Medium,Unemployed,Auto,Yes,Yes,Yes,No,Yes,Divorced,None,41,Medium,1 year,Low
+543,Good,Low,Partner,Home Owner,Yes,No,No,Yes,No,Married,Auto,39,Low,1 year,Medium
+544,Excellent,High,Employee,Home Owner,No,Yes,No,Yes,No,Single,Home,73,Low,5 years,Medium
+545,Excellent,Low,Employee,Home Owner,No,No,Yes,No,No,Single,Home,54,Low,2-5 years,Medium
+546,Excellent,High,Partner,Life,Yes,Yes,Yes,No,Yes,Divorced,Auto,63,Medium,5 years,High
+547,Good,Medium,Partner,Home Owner,No,No,Yes,No,No,Single,Personal,57,Medium,5 years,Medium
+548,Excellent,High,Unemployed,Home Owner,No,No,No,Yes,No,Single,Personal,63,High,2-5 years,Medium
+549,Poor,Low,Unemployed,Home Owner,Yes,Yes,No,Yes,Yes,Single,None,42,Medium,2-5 years,High
+550,Excellent,Low,Employee,Life,No,Yes,No,No,No,Divorced,Home,49,High,1 year,High
+551,Good,Low,Unemployed,Auto,No,No,Yes,Yes,Yes,Single,Personal,45,High,5 years,High
+552,Excellent,Medium,Employee,Home Owner,No,Yes,No,Yes,No,Single,Auto,30,Low,1 year,High
+553,Poor,Low,Partner,Life,Yes,No,Yes,Yes,No,Married,Auto,71,High,2-5 years,Medium
+554,Excellent,High,Unemployed,Auto,No,No,No,No,No,Single,Personal,46,Low,2-5 years,High
+555,Poor,Low,Unemployed,Life,No,No,No,No,Yes,Single,Home,51,Medium,1 year,Medium
+556,Excellent,Low,Employee,Auto,No,Yes,No,Yes,Yes,Single,Home,25,Medium,1 year,High
+557,Excellent,Medium,Employee,Home Owner,No,Yes,Yes,No,Yes,Single,Auto,50,Low,2-5 years,Low
+558,Excellent,High,Partner,Auto,Yes,Yes,No,No,No,Single,Home,27,Medium,2-5 years,Low
+559,Excellent,Medium,Employee,Life,No,No,Yes,Yes,Yes,Single,Home,71,Medium,5 years,High
+560,Poor,High,Unemployed,Home Owner,No,Yes,Yes,No,No,Divorced,None,35,High,5 years,High
+561,Poor,High,Partner,Auto,Yes,Yes,No,No,No,Divorced,Auto,33,High,2-5 years,Low
+562,Excellent,Low,Unemployed,Auto,No,Yes,No,No,No,Divorced,Home,72,High,5 years,Low
+563,Poor,Medium,Employee,Life,No,No,No,Yes,No,Divorced,None,40,High,2-5 years,Medium
+564,Good,Medium,Partner,Life,Yes,No,No,No,Yes,Single,None,30,Low,1 year,Low
+565,Poor,Low,Employee,Home Owner,No,No,Yes,Yes,No,Married,Personal,38,High,1 year,Medium
+566,Poor,Low,Employee,Auto,No,Yes,No,Yes,No,Single,Home,25,Medium,1 year,High
+567,Excellent,Low,Employee,Home Owner,Yes,Yes,Yes,No,Yes,Single,Home,41,Low,1 year,Low
+568,Poor,Low,Employee,Auto,No,No,No,No,No,Single,Home,42,Medium,1 year,Low
+569,Excellent,Low,Unemployed,Auto,No,Yes,No,Yes,Yes,Single,Personal,45,High,5 years,Low
+570,Excellent,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,No,Single,Home,28,Low,5 years,Low
+571,Poor,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,Yes,Single,Personal,21,Medium,1 year,Low
+572,Poor,High,Unemployed,Home Owner,Yes,No,Yes,Yes,No,Divorced,Home,48,High,5 years,High
+573,Good,High,Partner,Auto,Yes,Yes,Yes,No,Yes,Single,Auto,39,High,1 year,Medium
+574,Excellent,Low,Unemployed,Life,No,No,No,No,Yes,Married,Personal,48,Low,1 year,Low
+575,Excellent,High,Partner,Home Owner,No,No,Yes,No,No,Single,Personal,48,Medium,1 year,Low
+576,Excellent,High,Unemployed,Auto,No,Yes,Yes,Yes,No,Divorced,Home,33,Low,5 years,High
+577,Good,Medium,Employee,Life,Yes,No,No,Yes,Yes,Single,Auto,24,High,5 years,High
+578,Excellent,Medium,Partner,Home Owner,Yes,No,No,Yes,Yes,Divorced,Home,42,High,1 year,High
+579,Poor,High,Unemployed,Home Owner,Yes,Yes,Yes,No,Yes,Married,None,38,Medium,2-5 years,Low
+580,Poor,Low,Unemployed,Auto,No,Yes,Yes,Yes,Yes,Single,Home,31,Medium,5 years,Medium
+581,Good,High,Partner,Home Owner,Yes,Yes,Yes,Yes,No,Single,Home,37,Medium,1 year,High
+582,Good,Medium,Partner,Home Owner,No,No,Yes,Yes,No,Married,Personal,40,Low,1 year,High
+583,Good,High,Partner,Life,No,Yes,Yes,Yes,Yes,Divorced,Personal,31,High,5 years,Medium
+584,Good,Medium,Partner,Auto,Yes,Yes,Yes,Yes,No,Single,Home,44,Low,1 year,High
+585,Poor,Low,Employee,Auto,No,No,No,No,Yes,Single,Auto,60,Medium,5 years,Low
+586,Excellent,High,Partner,Home Owner,Yes,No,No,Yes,Yes,Married,None,40,Medium,2-5 years,Medium
+587,Good,Low,Partner,Home Owner,Yes,No,Yes,No,Yes,Single,Personal,10,High,5 years,High
+588,Excellent,Low,Employee,Home Owner,No,Yes,No,No,Yes,Single,Auto,31,Low,1 year,Low
+589,Good,Low,Unemployed,Home Owner,No,No,No,Yes,Yes,Married,Home,49,High,2-5 years,High
+590,Poor,High,Unemployed,Life,No,Yes,No,Yes,Yes,Single,Home,15,High,5 years,Medium
+591,Poor,High,Employee,Life,Yes,Yes,Yes,Yes,No,Single,Personal,19,High,2-5 years,Medium
+592,Good,High,Partner,Auto,Yes,No,Yes,No,Yes,Married,None,62,Medium,1 year,High
+593,Poor,High,Partner,Auto,No,No,Yes,Yes,Yes,Married,None,52,Low,1 year,Low
+594,Good,Medium,Employee,Auto,No,Yes,Yes,Yes,No,Married,None,35,Medium,1 year,Medium
+595,Poor,High,Partner,Life,No,Yes,Yes,Yes,Yes,Single,Auto,47,Low,5 years,Medium
+596,Good,Medium,Partner,Auto,No,Yes,Yes,No,No,Single,Personal,31,High,5 years,Low
+597,Excellent,Low,Employee,Home Owner,Yes,No,No,No,No,Married,Personal,72,High,5 years,Low
+598,Poor,Medium,Partner,Life,Yes,No,Yes,No,No,Single,Home,41,Low,2-5 years,Medium
+599,Good,Medium,Employee,Life,No,Yes,Yes,Yes,No,Married,None,57,Low,1 year,Low
+600,Good,Low,Unemployed,Life,No,Yes,No,Yes,No,Married,None,39,High,1 year,Low
+601,Excellent,Medium,Unemployed,Home Owner,Yes,Yes,No,Yes,No,Single,Personal,55,Low,2-5 years,High
+602,Good,Medium,Unemployed,Auto,Yes,No,No,No,No,Single,Home,22,Medium,2-5 years,High
+603,Good,High,Employee,Auto,No,No,No,No,Yes,Single,Auto,29,High,5 years,High
+604,Good,Low,Employee,Life,No,No,Yes,Yes,Yes,Divorced,Personal,34,Low,5 years,Medium
+605,Good,Low,Partner,Auto,No,No,Yes,Yes,No,Married,Personal,44,Medium,5 years,Medium
+606,Good,Medium,Employee,Auto,Yes,No,No,No,No,Single,Auto,24,Low,5 years,Medium
+607,Poor,High,Employee,Auto,No,No,No,Yes,No,Divorced,Personal,43,High,2-5 years,High
+608,Poor,Low,Employee,Home Owner,No,Yes,No,Yes,No,Single,Auto,36,Low,1 year,High
+609,Poor,High,Partner,Home Owner,Yes,No,No,Yes,No,Single,Home,41,Low,2-5 years,Medium
+610,Poor,Low,Unemployed,Home Owner,No,No,Yes,No,Yes,Single,None,28,High,5 years,High
+611,Excellent,Low,Employee,Home Owner,No,No,No,Yes,No,Married,Home,41,Medium,5 years,Low
+612,Good,Low,Unemployed,Auto,Yes,No,No,No,No,Single,Personal,21,High,5 years,High
+613,Poor,Low,Partner,Auto,No,No,No,No,No,Single,Auto,52,Low,2-5 years,Medium
+614,Poor,Low,Employee,Life,Yes,No,Yes,Yes,No,Single,Auto,18,Medium,1 year,Low
+615,Poor,Low,Unemployed,Home Owner,No,Yes,No,Yes,Yes,Single,Auto,42,Medium,2-5 years,High
+616,Poor,High,Partner,Life,Yes,No,Yes,No,Yes,Divorced,Auto,26,Low,1 year,Low
+617,Excellent,High,Partner,Auto,No,No,No,Yes,Yes,Divorced,Auto,28,Medium,5 years,Medium
+618,Excellent,High,Partner,Life,No,No,Yes,No,No,Married,Auto,49,High,5 years,Medium
+619,Good,Low,Employee,Life,Yes,No,No,No,No,Divorced,Home,48,Low,1 year,High
+620,Good,Low,Unemployed,Auto,Yes,No,No,No,Yes,Married,Auto,53,Low,5 years,High
+621,Excellent,High,Unemployed,Home Owner,Yes,No,Yes,Yes,Yes,Divorced,None,35,Low,1 year,Low
+622,Poor,Medium,Partner,Auto,Yes,No,No,Yes,No,Single,None,60,Medium,1 year,High
+623,Poor,High,Partner,Home Owner,Yes,Yes,No,Yes,Yes,Single,None,14,Low,1 year,High
+624,Poor,High,Partner,Home Owner,Yes,No,Yes,Yes,Yes,Single,Personal,21,Medium,5 years,Medium
+625,Good,Low,Partner,Life,Yes,Yes,No,Yes,No,Married,Personal,46,Low,5 years,Low
+626,Good,Medium,Employee,Home Owner,Yes,Yes,Yes,No,No,Married,Home,48,Medium,1 year,Low
+627,Poor,Medium,Unemployed,Auto,Yes,No,Yes,Yes,Yes,Single,Personal,26,Low,5 years,Low
+628,Poor,Medium,Employee,Life,No,Yes,Yes,Yes,Yes,Single,None,23,High,5 years,Low
+629,Good,Medium,Employee,Auto,No,Yes,Yes,No,No,Single,Personal,16,High,5 years,High
+630,Good,High,Unemployed,Home Owner,No,Yes,Yes,No,Yes,Single,Home,40,Low,2-5 years,High
+631,Excellent,Medium,Partner,Auto,Yes,Yes,No,No,Yes,Single,Auto,28,Medium,1 year,Low
+632,Poor,Low,Partner,Life,No,No,Yes,No,Yes,Single,Home,23,Low,5 years,Medium
+633,Poor,Low,Employee,Life,Yes,Yes,Yes,No,Yes,Divorced,Personal,41,Low,2-5 years,Medium
+634,Good,Low,Partner,Auto,Yes,No,Yes,No,No,Single,Auto,26,Medium,2-5 years,High
+635,Poor,Low,Unemployed,Life,Yes,No,No,Yes,Yes,Married,Auto,39,High,5 years,Low
+636,Poor,Low,Partner,Home Owner,No,No,Yes,No,Yes,Divorced,Home,34,High,2-5 years,Medium
+637,Excellent,Low,Employee,Auto,No,No,Yes,Yes,No,Married,Personal,43,High,1 year,Medium
+638,Excellent,Low,Employee,Home Owner,Yes,No,Yes,No,No,Single,Auto,37,High,2-5 years,High
+639,Good,Medium,Employee,Auto,Yes,No,No,No,No,Divorced,Personal,32,Low,5 years,High
+640,Poor,Medium,Unemployed,Life,Yes,Yes,Yes,No,Yes,Single,Auto,33,Low,2-5 years,High
+641,Poor,High,Employee,Auto,Yes,No,No,No,Yes,Married,Personal,42,High,5 years,Low
+642,Excellent,Medium,Partner,Home Owner,Yes,Yes,No,Yes,Yes,Single,None,42,Medium,1 year,Medium
+643,Poor,Low,Partner,Home Owner,Yes,No,No,Yes,No,Single,Home,27,Medium,5 years,Medium
+644,Poor,High,Employee,Life,Yes,No,Yes,Yes,Yes,Married,None,40,Low,2-5 years,Medium
+645,Poor,Low,Employee,Home Owner,Yes,Yes,No,Yes,No,Single,Home,45,High,5 years,High
+646,Poor,Medium,Partner,Auto,Yes,No,No,Yes,No,Divorced,Auto,36,Low,1 year,High
+647,Good,High,Partner,Auto,No,No,Yes,No,Yes,Single,Personal,34,High,2-5 years,Medium
+648,Excellent,Low,Unemployed,Life,No,No,Yes,No,No,Married,None,54,Low,5 years,Low
+649,Excellent,Low,Partner,Home Owner,Yes,Yes,Yes,Yes,Yes,Single,Personal,55,Low,5 years,Low
+650,Good,Low,Unemployed,Home Owner,Yes,No,No,No,No,Married,Personal,36,High,5 years,Medium
+651,Good,Medium,Unemployed,Life,No,Yes,No,Yes,Yes,Divorced,None,39,Medium,2-5 years,Low
+652,Good,Low,Employee,Home Owner,Yes,No,No,No,No,Single,Home,36,Medium,1 year,Medium
+653,Excellent,Medium,Employee,Auto,No,No,No,Yes,No,Single,None,22,Low,2-5 years,High
+654,Excellent,High,Employee,Life,No,Yes,No,No,No,Divorced,Auto,37,Low,5 years,Low
+655,Excellent,High,Unemployed,Home Owner,Yes,Yes,No,No,Yes,Divorced,Home,62,Medium,1 year,Low
+656,Excellent,Low,Unemployed,Auto,Yes,No,No,Yes,Yes,Single,None,35,Medium,1 year,Medium
+657,Good,Low,Employee,Life,No,Yes,Yes,No,Yes,Single,Home,59,Low,1 year,Medium
+658,Excellent,Medium,Employee,Life,Yes,Yes,No,No,Yes,Divorced,Auto,51,Medium,2-5 years,Low
+659,Poor,Low,Partner,Auto,No,Yes,No,No,Yes,Single,Auto,28,Low,5 years,Medium
+660,Good,Medium,Employee,Life,No,Yes,No,Yes,Yes,Divorced,Home,31,Low,5 years,Low
+661,Excellent,High,Unemployed,Auto,No,Yes,Yes,No,No,Single,Personal,47,Low,1 year,High
+662,Good,High,Unemployed,Home Owner,Yes,Yes,No,No,Yes,Single,Auto,32,Low,5 years,Low
+663,Poor,Low,Employee,Life,No,Yes,Yes,No,No,Married,Home,44,High,2-5 years,Low
+664,Excellent,High,Partner,Home Owner,No,Yes,Yes,No,No,Divorced,Auto,39,Medium,1 year,Medium
+665,Poor,High,Employee,Home Owner,Yes,Yes,Yes,No,Yes,Divorced,None,33,Medium,1 year,Low
+666,Excellent,Low,Partner,Home Owner,No,Yes,No,No,No,Single,Auto,24,Low,5 years,Low
+667,Poor,Low,Unemployed,Life,Yes,No,Yes,Yes,Yes,Married,None,52,High,5 years,High
+668,Good,Medium,Employee,Home Owner,No,Yes,Yes,No,No,Divorced,Auto,37,High,5 years,Low
+669,Excellent,Low,Employee,Auto,Yes,No,Yes,Yes,Yes,Single,None,29,High,1 year,High
+670,Good,Medium,Employee,Home Owner,Yes,No,Yes,Yes,Yes,Single,Auto,44,Medium,2-5 years,Medium
+671,Excellent,Low,Unemployed,Life,No,Yes,No,No,No,Divorced,Personal,34,High,2-5 years,High
+672,Excellent,Low,Partner,Life,Yes,Yes,No,No,Yes,Married,Personal,82,Low,2-5 years,Medium
+673,Excellent,High,Partner,Home Owner,Yes,No,No,No,Yes,Married,Personal,39,High,5 years,Low
+674,Good,Low,Unemployed,Life,Yes,No,No,Yes,Yes,Single,Personal,38,High,1 year,High
+675,Excellent,High,Employee,Auto,No,No,Yes,Yes,No,Single,Auto,51,High,2-5 years,Medium
+676,Poor,Medium,Partner,Home Owner,Yes,No,No,Yes,No,Married,Home,47,Low,1 year,Medium
+677,Excellent,Low,Partner,Life,No,No,Yes,No,No,Single,Auto,25,Low,2-5 years,Low
+678,Poor,Medium,Employee,Life,Yes,Yes,Yes,Yes,No,Married,Personal,40,Low,5 years,Low
+679,Good,High,Unemployed,Auto,Yes,No,Yes,No,No,Divorced,Auto,38,Low,1 year,High
+680,Excellent,Medium,Unemployed,Life,No,No,No,Yes,Yes,Single,None,30,Medium,1 year,Medium
+681,Excellent,High,Employee,Home Owner,No,No,Yes,Yes,Yes,Divorced,None,63,Medium,1 year,Low
+682,Excellent,High,Partner,Auto,No,Yes,Yes,No,No,Divorced,None,39,Low,2-5 years,High
+683,Poor,Medium,Employee,Life,Yes,Yes,No,Yes,Yes,Single,None,27,High,5 years,Medium
+684,Good,Low,Partner,Home Owner,Yes,No,Yes,No,No,Married,Home,42,High,2-5 years,High
+685,Poor,Low,Partner,Home Owner,Yes,Yes,No,No,No,Single,Home,43,Low,1 year,Low
+686,Excellent,Medium,Unemployed,Life,No,No,No,Yes,Yes,Divorced,Auto,41,High,5 years,Low
+687,Good,Low,Unemployed,Auto,Yes,No,No,No,Yes,Single,Personal,19,Low,1 year,Low
+688,Poor,Low,Employee,Auto,No,Yes,No,No,No,Married,Personal,43,Medium,2-5 years,Medium
+689,Good,Low,Unemployed,Auto,Yes,Yes,Yes,No,Yes,Divorced,Auto,38,Low,5 years,Medium
+690,Poor,Medium,Unemployed,Life,No,No,No,No,No,Married,Personal,32,Medium,2-5 years,Medium
+691,Good,Medium,Employee,Auto,Yes,No,Yes,No,No,Single,Personal,25,Medium,1 year,Low
+692,Poor,Medium,Employee,Life,Yes,Yes,Yes,No,No,Married,Personal,41,High,5 years,Low
+693,Good,High,Employee,Life,Yes,Yes,No,No,No,Single,None,44,High,1 year,High
+694,Excellent,Low,Unemployed,Home Owner,Yes,Yes,No,Yes,Yes,Married,Home,39,Medium,1 year,Low
+695,Good,High,Partner,Home Owner,No,Yes,No,No,No,Married,Auto,47,High,5 years,High
+696,Good,High,Employee,Auto,No,No,Yes,Yes,Yes,Single,Auto,46,Low,1 year,High
+697,Poor,High,Unemployed,Life,Yes,Yes,Yes,No,Yes,Divorced,Home,33,Medium,2-5 years,High
+698,Excellent,High,Unemployed,Home Owner,Yes,Yes,No,No,Yes,Divorced,Home,61,High,2-5 years,High
+699,Poor,Medium,Unemployed,Auto,Yes,No,No,Yes,No,Married,None,47,High,2-5 years,Low
+700,Good,Medium,Employee,Home Owner,No,No,Yes,Yes,Yes,Married,Home,56,High,1 year,High
+701,Good,Low,Employee,Home Owner,No,No,Yes,No,No,Single,None,30,Medium,1 year,Low
+702,Poor,Medium,Partner,Auto,Yes,Yes,No,Yes,No,Single,Personal,27,Medium,1 year,Low
+703,Poor,Low,Unemployed,Auto,Yes,Yes,No,No,Yes,Married,Auto,39,Medium,5 years,High
+704,Poor,Low,Unemployed,Life,Yes,Yes,Yes,Yes,Yes,Divorced,Home,43,Low,1 year,Medium
+705,Good,Low,Unemployed,Life,No,Yes,No,Yes,Yes,Married,Home,40,Medium,1 year,Medium
+706,Excellent,Low,Partner,Life,Yes,Yes,No,No,Yes,Divorced,Personal,44,Medium,2-5 years,Low
+707,Excellent,Low,Unemployed,Auto,Yes,No,No,Yes,Yes,Single,Auto,25,Low,2-5 years,Low
+708,Poor,Low,Unemployed,Auto,Yes,Yes,No,Yes,No,Married,Auto,31,Low,2-5 years,Low
+709,Good,Medium,Partner,Life,No,Yes,No,Yes,Yes,Single,Personal,33,Low,2-5 years,Medium
+710,Poor,High,Unemployed,Auto,Yes,No,No,No,Yes,Divorced,Auto,39,Medium,5 years,Medium
+711,Good,Low,Unemployed,Home Owner,Yes,No,No,No,No,Single,Personal,37,High,2-5 years,Low
+712,Excellent,High,Partner,Home Owner,Yes,Yes,No,No,Yes,Single,Home,40,Medium,2-5 years,High
+713,Good,Low,Employee,Auto,No,Yes,No,No,No,Divorced,None,66,Low,5 years,Low
+714,Poor,Low,Partner,Life,No,Yes,Yes,Yes,Yes,Divorced,Auto,45,High,2-5 years,Medium
+715,Excellent,High,Employee,Life,No,Yes,Yes,Yes,Yes,Divorced,Personal,45,Low,1 year,High
+716,Good,Low,Partner,Home Owner,Yes,Yes,No,Yes,No,Single,Auto,36,Low,5 years,Medium
+717,Poor,High,Employee,Auto,Yes,Yes,Yes,No,Yes,Single,None,24,High,1 year,Medium
+718,Poor,High,Partner,Auto,No,Yes,No,No,Yes,Married,Home,50,Medium,2-5 years,Medium
+719,Excellent,Low,Partner,Auto,Yes,No,Yes,No,No,Divorced,None,36,High,1 year,Medium
+720,Good,High,Unemployed,Auto,No,No,Yes,Yes,Yes,Single,Auto,34,High,5 years,High
+721,Excellent,High,Partner,Life,No,No,Yes,No,No,Single,Home,42,Medium,2-5 years,Low
+722,Good,Low,Employee,Auto,Yes,Yes,Yes,Yes,Yes,Single,Auto,41,Low,2-5 years,Medium
+723,Good,Medium,Employee,Home Owner,No,Yes,Yes,Yes,Yes,Divorced,Auto,38,Medium,1 year,High
+724,Excellent,Medium,Unemployed,Home Owner,Yes,No,No,No,No,Divorced,Personal,43,High,5 years,Medium
+725,Excellent,Low,Employee,Auto,Yes,Yes,No,No,No,Single,None,28,Medium,1 year,High
+726,Poor,Medium,Partner,Home Owner,No,No,Yes,Yes,Yes,Single,Home,30,High,2-5 years,Medium
+727,Poor,Medium,Employee,Home Owner,No,No,No,No,No,Single,Home,44,Low,2-5 years,Low
+728,Poor,Low,Unemployed,Home Owner,No,No,No,Yes,No,Single,Personal,61,High,5 years,Low
+729,Excellent,High,Unemployed,Home Owner,Yes,Yes,Yes,No,No,Divorced,Auto,60,Medium,2-5 years,High
+730,Excellent,Low,Employee,Auto,No,No,No,No,Yes,Divorced,Auto,62,High,5 years,High
+731,Excellent,Medium,Employee,Life,Yes,Yes,Yes,No,No,Single,Auto,24,Low,2-5 years,High
+732,Poor,High,Partner,Home Owner,Yes,No,No,Yes,Yes,Single,Auto,18,High,1 year,Low
+733,Good,Low,Employee,Auto,Yes,Yes,No,Yes,Yes,Single,Home,26,Low,5 years,Low
+734,Good,High,Employee,Home Owner,Yes,No,Yes,Yes,Yes,Divorced,Personal,51,Low,1 year,Low
+735,Poor,Low,Partner,Life,No,Yes,Yes,Yes,No,Single,Auto,39,Medium,5 years,High
+736,Excellent,Medium,Employee,Auto,No,Yes,No,Yes,Yes,Single,Home,18,Low,2-5 years,Low
+737,Good,Low,Unemployed,Auto,Yes,No,No,Yes,Yes,Divorced,Home,46,Medium,1 year,Low
+738,Excellent,High,Employee,Auto,Yes,Yes,No,Yes,Yes,Single,Auto,56,High,2-5 years,Low
+739,Good,High,Partner,Auto,Yes,No,Yes,No,Yes,Married,Auto,38,High,2-5 years,Low
+740,Excellent,Medium,Employee,Auto,No,Yes,Yes,Yes,Yes,Single,None,33,Low,1 year,High
+741,Good,Low,Employee,Life,No,No,No,Yes,No,Single,Home,41,High,1 year,High
+742,Poor,High,Partner,Home Owner,Yes,No,Yes,No,Yes,Single,Auto,29,Low,1 year,High
+743,Good,Low,Unemployed,Home Owner,No,Yes,No,Yes,Yes,Single,Home,31,Low,5 years,High
+744,Excellent,High,Unemployed,Auto,No,No,Yes,Yes,Yes,Married,Home,32,Medium,5 years,Medium
+745,Excellent,Low,Partner,Life,No,Yes,Yes,No,Yes,Married,Home,53,Medium,1 year,Low
+746,Good,Low,Unemployed,Life,No,Yes,Yes,No,Yes,Single,Personal,13,Medium,5 years,Medium
+747,Poor,Low,Unemployed,Home Owner,Yes,No,Yes,No,Yes,Single,Personal,30,High,2-5 years,Low
+748,Poor,Medium,Employee,Home Owner,No,No,Yes,No,No,Married,None,46,Low,5 years,Medium
+749,Good,Low,Partner,Auto,No,No,No,No,Yes,Married,None,37,Medium,5 years,Low
+750,Poor,Low,Employee,Auto,Yes,Yes,No,No,Yes,Single,Auto,45,High,2-5 years,Medium
+751,Good,Low,Partner,Home Owner,Yes,No,No,No,No,Single,Home,35,High,1 year,High
+752,Good,Low,Partner,Auto,No,No,No,Yes,No,Single,None,26,Low,5 years,Low
+753,Poor,Low,Employee,Home Owner,Yes,Yes,Yes,No,Yes,Divorced,Auto,37,Medium,5 years,High
+754,Excellent,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,Yes,Single,Auto,64,High,5 years,Low
+755,Excellent,High,Partner,Life,No,Yes,Yes,Yes,Yes,Married,Personal,62,Medium,2-5 years,Medium
+756,Excellent,Medium,Employee,Life,Yes,No,Yes,Yes,Yes,Single,Home,50,High,5 years,Low
+757,Good,Low,Unemployed,Home Owner,No,No,No,Yes,Yes,Married,Home,34,High,2-5 years,Medium
+758,Good,High,Partner,Life,Yes,No,No,No,No,Divorced,Personal,38,Low,2-5 years,Medium
+759,Excellent,Low,Partner,Life,No,Yes,Yes,Yes,No,Divorced,Home,30,Medium,2-5 years,Medium
+760,Excellent,Medium,Employee,Auto,No,Yes,Yes,Yes,Yes,Divorced,Auto,43,Medium,2-5 years,High
+761,Good,High,Employee,Life,Yes,No,No,No,Yes,Married,None,36,High,5 years,High
+762,Poor,High,Unemployed,Life,No,Yes,No,Yes,No,Single,Personal,31,Low,5 years,Medium
+763,Poor,Medium,Partner,Home Owner,Yes,No,No,Yes,No,Divorced,Auto,55,High,5 years,Low
+764,Excellent,Low,Unemployed,Home Owner,Yes,Yes,No,No,No,Divorced,Personal,41,High,5 years,Low
+765,Good,Medium,Unemployed,Auto,Yes,Yes,No,No,No,Divorced,Home,83,Medium,5 years,Low
+766,Poor,High,Partner,Auto,No,Yes,Yes,No,Yes,Married,Home,53,Medium,5 years,High
+767,Excellent,Low,Employee,Home Owner,Yes,No,Yes,No,Yes,Single,Home,38,Medium,2-5 years,Low
+768,Poor,Low,Employee,Auto,No,Yes,Yes,Yes,Yes,Single,Home,24,Medium,2-5 years,Medium
+769,Poor,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,Yes,Married,None,34,Medium,5 years,Medium
+770,Good,Medium,Partner,Home Owner,Yes,Yes,Yes,Yes,No,Married,Personal,41,High,5 years,High
+771,Good,Low,Partner,Auto,Yes,No,Yes,No,No,Married,Auto,35,High,1 year,High
+772,Poor,Medium,Unemployed,Life,No,No,Yes,Yes,Yes,Single,None,28,High,1 year,Low
+773,Poor,High,Partner,Home Owner,Yes,Yes,No,Yes,Yes,Divorced,Personal,41,Medium,5 years,Low
+774,Poor,Low,Employee,Life,No,No,No,Yes,No,Married,Home,35,Low,2-5 years,High
+775,Poor,High,Employee,Home Owner,Yes,No,Yes,Yes,Yes,Single,Auto,28,Medium,5 years,Medium
+776,Good,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,Yes,Divorced,Auto,32,High,1 year,Medium
+777,Poor,Low,Employee,Life,Yes,No,No,Yes,No,Divorced,Auto,47,Low,2-5 years,Medium
+778,Poor,Low,Employee,Auto,Yes,No,No,No,Yes,Single,Personal,31,High,1 year,High
+779,Poor,Medium,Partner,Life,No,No,No,No,Yes,Married,Personal,50,Low,5 years,Low
+780,Poor,Low,Unemployed,Home Owner,No,No,No,Yes,Yes,Single,Personal,43,High,5 years,Medium
+781,Excellent,High,Employee,Life,Yes,No,No,Yes,No,Single,Home,43,Low,5 years,Medium
+782,Excellent,High,Employee,Life,No,No,No,No,Yes,Single,None,37,Low,2-5 years,Medium
+783,Poor,Medium,Employee,Auto,No,No,No,Yes,No,Single,Personal,52,Low,5 years,Medium
+784,Poor,High,Unemployed,Auto,Yes,Yes,No,No,No,Single,Personal,24,Medium,5 years,Medium
+785,Poor,Medium,Employee,Life,No,Yes,No,No,No,Single,Personal,38,Medium,2-5 years,High
+786,Excellent,Low,Unemployed,Life,No,No,No,No,No,Divorced,Auto,58,Medium,5 years,High
+787,Poor,Low,Partner,Auto,Yes,Yes,Yes,Yes,No,Single,Personal,47,Medium,1 year,Medium
+788,Good,High,Employee,Home Owner,No,No,No,Yes,Yes,Married,Auto,45,High,1 year,High
+789,Excellent,Low,Employee,Auto,Yes,No,No,Yes,Yes,Single,Auto,40,High,1 year,High
+790,Good,Medium,Employee,Home Owner,No,No,No,Yes,No,Divorced,Home,38,Medium,2-5 years,High
+791,Good,High,Unemployed,Auto,No,No,No,No,No,Married,Home,54,High,2-5 years,High
+792,Good,High,Employee,Home Owner,No,Yes,Yes,Yes,No,Divorced,Home,37,Medium,2-5 years,Low
+793,Good,High,Unemployed,Auto,Yes,Yes,No,Yes,No,Single,None,30,High,1 year,Medium
+794,Poor,High,Partner,Auto,No,Yes,Yes,No,No,Married,None,42,Low,5 years,Low
+795,Good,Low,Partner,Life,No,Yes,No,No,No,Single,Home,36,Medium,5 years,Low
+796,Excellent,Low,Employee,Home Owner,No,No,No,No,Yes,Married,None,51,Low,5 years,High
+797,Poor,Low,Unemployed,Auto,Yes,No,Yes,No,No,Married,Personal,73,High,2-5 years,Medium
+798,Excellent,Low,Employee,Auto,Yes,No,No,No,Yes,Single,None,23,High,2-5 years,Low
+799,Poor,Low,Unemployed,Home Owner,Yes,No,No,No,No,Single,Home,29,Medium,1 year,Low
+800,Poor,High,Unemployed,Auto,Yes,Yes,No,No,No,Single,Personal,30,Medium,5 years,High
+801,Good,Medium,Employee,Home Owner,No,No,No,No,No,Single,None,37,Low,2-5 years,Low
+802,Poor,High,Partner,Home Owner,No,Yes,Yes,Yes,No,Single,Home,22,High,5 years,Low
+803,Good,High,Unemployed,Home Owner,Yes,No,No,Yes,No,Married,Personal,49,Low,5 years,High
+804,Poor,Medium,Partner,Life,Yes,Yes,Yes,No,No,Single,None,23,Low,5 years,Low
+805,Good,Low,Partner,Auto,Yes,No,No,Yes,No,Single,Personal,30,High,5 years,Medium
+806,Good,Low,Partner,Auto,No,Yes,Yes,Yes,Yes,Divorced,None,52,Low,2-5 years,High
+807,Good,High,Partner,Life,No,No,Yes,Yes,No,Single,Auto,33,Medium,2-5 years,High
+808,Poor,Medium,Partner,Auto,No,No,No,No,No,Single,None,64,Low,2-5 years,Low
+809,Poor,Medium,Employee,Home Owner,Yes,Yes,Yes,No,No,Divorced,Auto,33,Low,5 years,Medium
+810,Excellent,Low,Unemployed,Home Owner,No,No,No,No,Yes,Divorced,Home,51,Low,5 years,Low
+811,Good,High,Unemployed,Auto,Yes,No,No,No,Yes,Divorced,Personal,44,Low,1 year,High
+812,Excellent,Medium,Partner,Auto,Yes,Yes,Yes,No,No,Married,Home,49,Medium,5 years,Medium
+813,Good,Medium,Partner,Home Owner,Yes,No,No,Yes,Yes,Married,None,33,Medium,5 years,Medium
+814,Excellent,Medium,Partner,Life,No,No,No,No,Yes,Divorced,Auto,38,Low,1 year,Low
+815,Poor,Low,Employee,Life,Yes,No,No,Yes,No,Single,None,33,High,2-5 years,Medium
+816,Good,Low,Employee,Auto,Yes,Yes,No,Yes,No,Divorced,Home,49,High,5 years,Low
+817,Good,Low,Employee,Life,No,Yes,Yes,No,Yes,Single,Home,32,Medium,1 year,Medium
+818,Excellent,Medium,Employee,Life,No,Yes,Yes,Yes,No,Single,Home,50,Low,5 years,Medium
+819,Poor,Medium,Unemployed,Home Owner,Yes,Yes,No,Yes,No,Married,Auto,43,Medium,5 years,Low
+820,Poor,High,Unemployed,Auto,No,No,Yes,Yes,Yes,Single,Auto,29,Medium,2-5 years,Low
+821,Good,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,No,Married,Home,46,Low,2-5 years,Low
+822,Poor,Low,Employee,Auto,No,Yes,Yes,Yes,Yes,Single,Personal,16,Medium,2-5 years,Low
+823,Excellent,High,Employee,Home Owner,No,No,No,Yes,No,Divorced,Auto,33,Medium,2-5 years,High
+824,Excellent,High,Unemployed,Auto,Yes,Yes,Yes,No,Yes,Married,None,41,Low,2-5 years,Medium
+825,Poor,Low,Unemployed,Home Owner,No,Yes,No,Yes,Yes,Single,Personal,39,Medium,2-5 years,High
+826,Poor,High,Partner,Life,Yes,Yes,No,No,No,Married,None,34,Low,2-5 years,High
+827,Excellent,Medium,Unemployed,Life,Yes,Yes,Yes,No,Yes,Divorced,Home,38,Low,5 years,Medium
+828,Excellent,High,Unemployed,Home Owner,Yes,Yes,Yes,No,No,Single,Home,47,Medium,1 year,Low
+829,Good,Low,Unemployed,Auto,Yes,Yes,Yes,Yes,No,Divorced,Auto,39,High,2-5 years,Medium
+830,Good,Low,Partner,Home Owner,No,No,Yes,Yes,Yes,Single,Personal,26,Low,2-5 years,Medium
+831,Good,Medium,Employee,Life,No,No,Yes,Yes,No,Married,Personal,67,High,1 year,Low
+832,Poor,Medium,Employee,Life,No,No,Yes,Yes,Yes,Single,Auto,58,Low,5 years,Medium
+833,Good,Low,Unemployed,Life,Yes,Yes,No,Yes,No,Single,Personal,44,Medium,5 years,Low
+834,Poor,Medium,Employee,Auto,No,No,Yes,Yes,No,Married,Auto,57,Medium,5 years,Low
+835,Poor,Low,Employee,Auto,No,No,No,Yes,Yes,Divorced,None,39,Medium,2-5 years,Low
+836,Poor,Low,Employee,Auto,No,No,Yes,No,Yes,Single,Home,25,Medium,5 years,Medium
+837,Good,High,Unemployed,Auto,Yes,No,No,Yes,Yes,Married,Personal,42,Medium,2-5 years,Low
+838,Excellent,High,Employee,Home Owner,Yes,Yes,No,No,Yes,Divorced,None,37,Low,2-5 years,Low
+839,Good,High,Employee,Life,Yes,No,No,No,No,Divorced,None,49,Medium,2-5 years,Medium
+840,Poor,Low,Employee,Home Owner,No,No,Yes,No,No,Married,None,36,High,5 years,High
+841,Excellent,Low,Partner,Life,Yes,Yes,Yes,No,Yes,Divorced,Home,41,Low,1 year,Medium
+842,Poor,Low,Partner,Home Owner,Yes,No,No,Yes,Yes,Married,Auto,37,Medium,1 year,Low
+843,Excellent,Low,Employee,Home Owner,No,No,No,Yes,Yes,Divorced,Home,45,Medium,2-5 years,High
+844,Poor,Low,Employee,Home Owner,No,Yes,Yes,Yes,Yes,Divorced,Personal,40,High,5 years,Medium
+845,Good,Low,Partner,Auto,Yes,Yes,No,No,No,Married,Home,35,Low,5 years,High
+846,Good,Medium,Unemployed,Auto,No,No,Yes,Yes,No,Single,Auto,19,Low,1 year,Medium
+847,Excellent,High,Partner,Life,No,No,Yes,Yes,No,Divorced,Home,58,High,1 year,Medium
+848,Excellent,High,Unemployed,Life,No,No,Yes,No,No,Married,Personal,42,High,5 years,Medium
+849,Good,High,Partner,Life,No,No,No,Yes,Yes,Divorced,Home,38,Medium,5 years,Medium
+850,Good,Low,Partner,Home Owner,Yes,Yes,Yes,No,No,Married,Personal,40,High,2-5 years,High
+851,Excellent,High,Unemployed,Auto,No,Yes,No,No,Yes,Married,Auto,75,Medium,2-5 years,High
+852,Good,Medium,Employee,Life,No,No,Yes,No,No,Single,Home,29,High,1 year,High
+853,Excellent,High,Partner,Life,No,Yes,No,No,Yes,Single,Personal,23,Medium,5 years,Medium
+854,Excellent,Medium,Employee,Life,Yes,No,No,Yes,Yes,Single,Home,19,Medium,1 year,High
+855,Excellent,Medium,Partner,Auto,Yes,Yes,No,Yes,No,Married,None,55,Low,5 years,Medium
+856,Poor,Medium,Employee,Auto,No,No,Yes,No,No,Married,None,46,Low,2-5 years,High
+857,Excellent,High,Employee,Life,No,No,No,Yes,No,Married,Personal,51,Low,1 year,Medium
+858,Excellent,Low,Partner,Auto,Yes,No,No,No,No,Single,Personal,33,Low,5 years,Low
+859,Excellent,High,Employee,Home Owner,No,Yes,No,Yes,No,Single,Personal,18,Low,1 year,Medium
+860,Good,Medium,Employee,Life,No,Yes,No,Yes,Yes,Single,None,29,Low,5 years,Medium
+861,Excellent,High,Unemployed,Auto,Yes,No,Yes,Yes,Yes,Divorced,None,56,Medium,5 years,Medium
+862,Good,Low,Unemployed,Auto,No,No,Yes,Yes,Yes,Single,Auto,35,Low,5 years,High
+863,Poor,High,Unemployed,Home Owner,No,No,No,Yes,No,Single,Home,40,Low,5 years,High
+864,Good,Low,Unemployed,Auto,Yes,No,Yes,No,Yes,Divorced,Auto,43,Medium,1 year,Medium
+865,Good,High,Partner,Auto,No,Yes,No,Yes,Yes,Single,Home,22,Low,1 year,High
+866,Poor,Low,Partner,Auto,Yes,Yes,No,No,Yes,Single,None,22,Medium,5 years,Low
+867,Excellent,Low,Partner,Home Owner,No,No,No,No,Yes,Divorced,None,44,Medium,5 years,Low
+868,Excellent,Low,Unemployed,Life,Yes,No,Yes,No,Yes,Single,Personal,55,Medium,1 year,High
+869,Good,Medium,Employee,Auto,No,Yes,No,No,No,Single,None,44,Low,5 years,High
+870,Poor,Medium,Partner,Auto,Yes,No,No,No,Yes,Divorced,Home,32,Medium,1 year,Medium
+871,Good,Low,Unemployed,Home Owner,Yes,No,Yes,No,No,Divorced,Home,36,Low,2-5 years,Medium
+872,Good,Medium,Unemployed,Life,Yes,Yes,Yes,Yes,No,Single,None,22,Medium,2-5 years,Medium
+873,Excellent,Low,Partner,Auto,No,Yes,No,Yes,No,Divorced,Personal,43,Medium,5 years,Medium
+874,Poor,Low,Employee,Life,Yes,Yes,No,Yes,No,Single,Home,18,High,1 year,High
+875,Excellent,Medium,Employee,Home Owner,Yes,No,Yes,Yes,Yes,Married,Home,38,Medium,2-5 years,Low
+876,Excellent,High,Unemployed,Auto,Yes,Yes,No,No,Yes,Single,Home,15,High,5 years,High
+877,Poor,High,Unemployed,Life,Yes,Yes,No,Yes,No,Single,Personal,47,Medium,5 years,Low
+878,Poor,Medium,Employee,Home Owner,No,No,Yes,No,No,Single,None,37,Medium,5 years,Medium
+879,Poor,Low,Partner,Auto,Yes,No,Yes,Yes,No,Single,Auto,56,High,5 years,Medium
+880,Poor,Low,Partner,Life,No,No,Yes,No,Yes,Married,Home,31,Medium,1 year,Low
+881,Excellent,High,Unemployed,Home Owner,Yes,Yes,No,No,Yes,Divorced,None,39,Medium,2-5 years,Medium
+882,Poor,High,Unemployed,Life,Yes,No,No,No,Yes,Single,Auto,49,Low,2-5 years,Medium
+883,Good,Low,Unemployed,Home Owner,No,Yes,No,No,No,Single,Personal,18,High,5 years,Medium
+884,Poor,Low,Unemployed,Home Owner,Yes,No,No,Yes,No,Single,Auto,20,High,5 years,Medium
+885,Good,Low,Employee,Home Owner,Yes,No,No,No,No,Single,Personal,30,Medium,1 year,Low
+886,Poor,Low,Unemployed,Life,No,Yes,No,No,Yes,Single,Personal,29,Medium,5 years,Low
+887,Excellent,Medium,Unemployed,Life,Yes,Yes,Yes,Yes,No,Married,Home,48,High,1 year,Low
+888,Good,Low,Unemployed,Auto,Yes,Yes,Yes,Yes,No,Married,None,38,Medium,1 year,Medium
+889,Poor,High,Unemployed,Auto,No,No,Yes,No,No,Single,Personal,26,Medium,2-5 years,High
+890,Excellent,High,Partner,Home Owner,Yes,Yes,Yes,No,Yes,Single,None,26,High,1 year,High
+891,Poor,Medium,Partner,Home Owner,No,Yes,No,Yes,Yes,Divorced,Home,36,High,5 years,Low
+892,Poor,High,Unemployed,Auto,Yes,No,Yes,No,Yes,Divorced,Auto,47,Low,1 year,Low
+893,Poor,High,Employee,Life,Yes,Yes,Yes,No,No,Single,Auto,54,Low,5 years,Low
+894,Excellent,Medium,Unemployed,Home Owner,Yes,No,No,Yes,No,Divorced,None,28,Low,1 year,Low
+895,Good,Medium,Employee,Home Owner,No,No,Yes,Yes,Yes,Divorced,None,54,High,1 year,High
+896,Excellent,Low,Unemployed,Home Owner,Yes,No,No,Yes,No,Married,Home,34,High,1 year,High
+897,Excellent,High,Employee,Auto,No,No,Yes,Yes,Yes,Single,Home,29,High,2-5 years,Low
+898,Poor,High,Unemployed,Home Owner,Yes,Yes,No,Yes,No,Single,None,21,Low,5 years,Medium
+899,Good,Low,Employee,Auto,Yes,No,Yes,Yes,Yes,Divorced,Home,52,High,1 year,Low
+900,Poor,Low,Employee,Auto,No,No,No,Yes,Yes,Single,Home,20,Medium,2-5 years,Low
+901,Excellent,High,Employee,Life,No,No,Yes,Yes,Yes,Married,Home,37,Low,2-5 years,High
+902,Poor,Medium,Employee,Life,No,Yes,No,No,No,Single,None,20,Low,5 years,High
+903,Excellent,High,Unemployed,Auto,No,Yes,Yes,No,No,Married,Auto,40,Medium,1 year,High
+904,Good,Medium,Employee,Auto,Yes,No,No,No,Yes,Single,Home,44,Medium,2-5 years,Medium
+905,Good,Low,Unemployed,Life,No,Yes,Yes,Yes,No,Single,Home,27,Low,1 year,High
+906,Poor,High,Unemployed,Life,Yes,No,No,Yes,Yes,Single,None,45,High,1 year,Medium
+907,Good,Low,Partner,Home Owner,Yes,No,No,No,No,Divorced,None,38,Medium,2-5 years,Low
+908,Excellent,High,Unemployed,Auto,Yes,No,Yes,Yes,Yes,Divorced,Home,42,Medium,5 years,Low
+909,Good,Low,Unemployed,Life,No,Yes,No,Yes,Yes,Married,None,36,Low,5 years,Medium
+910,Poor,Medium,Employee,Home Owner,Yes,No,No,Yes,No,Single,Auto,36,Low,5 years,High
+911,Excellent,Low,Unemployed,Home Owner,Yes,Yes,No,Yes,No,Married,Auto,54,High,1 year,Medium
+912,Poor,Medium,Unemployed,Life,No,Yes,No,Yes,No,Divorced,Personal,34,Medium,1 year,Medium
+913,Excellent,Medium,Unemployed,Life,No,Yes,No,No,Yes,Divorced,Home,39,High,2-5 years,High
+914,Excellent,Medium,Unemployed,Home Owner,No,No,No,Yes,Yes,Single,None,25,Low,1 year,Low
+915,Good,High,Partner,Auto,Yes,Yes,No,Yes,No,Divorced,Home,42,Low,2-5 years,Medium
+916,Excellent,Medium,Partner,Life,Yes,Yes,Yes,No,No,Divorced,Auto,64,Medium,2-5 years,High
+917,Excellent,Low,Employee,Home Owner,No,Yes,Yes,No,Yes,Single,Auto,22,High,1 year,High
+918,Excellent,Low,Partner,Life,No,Yes,No,No,No,Married,None,40,Low,2-5 years,Medium
+919,Excellent,Low,Employee,Auto,Yes,Yes,Yes,Yes,Yes,Single,Home,42,Low,1 year,Medium
+920,Good,High,Employee,Life,No,No,Yes,Yes,No,Single,Personal,46,Low,2-5 years,Medium
+921,Poor,Medium,Unemployed,Auto,No,Yes,Yes,No,Yes,Single,None,28,Medium,5 years,Low
+922,Good,Medium,Partner,Life,Yes,Yes,No,No,No,Married,Home,37,Medium,2-5 years,High
+923,Poor,High,Partner,Auto,Yes,Yes,Yes,Yes,No,Single,Personal,24,Medium,5 years,Low
+924,Good,Medium,Unemployed,None,Yes,No,Yes,No,No,Single,None,15,Low,1 year,Low
+925,Poor,High,Employee,Auto,No,Yes,Yes,No,Yes,Single,Auto,23,Medium,1 year,High
+926,Excellent,Medium,Employee,Auto,No,Yes,Yes,Yes,Yes,Divorced,Personal,38,Low,2-5 years,Low
+927,Poor,Low,Employee,None,No,No,Yes,Yes,Yes,Single,Personal,20,Medium,1 year,High
+928,Excellent,Low,Partner,Auto,Yes,Yes,Yes,Yes,No,Single,Personal,49,Medium,5 years,Low
+929,Good,High,Employee,Life,Yes,Yes,Yes,No,Yes,Single,Home,40,Medium,5 years,Low
+930,Excellent,Medium,Employee,Life,No,Yes,No,No,No,Single,Home,26,High,2-5 years,Low
+931,Poor,Medium,Employee,None,Yes,Yes,Yes,No,No,Divorced,None,41,Medium,1 year,High
+932,Good,Low,Partner,None,No,No,No,No,No,Divorced,Auto,49,Low,1 year,High
+933,Excellent,Medium,Partner,None,No,Yes,Yes,No,No,Married,None,71,Medium,5 years,Low
+934,Excellent,High,Employee,Life,Yes,Yes,Yes,Yes,No,Divorced,None,47,Low,1 year,Medium
+935,Poor,Low,Unemployed,Home Owner,No,Yes,Yes,No,Yes,Married,Auto,50,Medium,1 year,High
+936,Excellent,Low,Unemployed,Life,No,Yes,Yes,No,Yes,Single,Home,41,Medium,5 years,Medium
+937,Poor,Low,Unemployed,Life,Yes,Yes,Yes,No,No,Single,Auto,38,Medium,2-5 years,Low
+938,Good,High,Unemployed,Home Owner,Yes,No,No,Yes,Yes,Married,None,39,Low,1 year,Low
+939,Good,Low,Unemployed,Home Owner,No,No,Yes,No,No,Single,Auto,30,High,1 year,Low
+940,Excellent,Medium,Unemployed,Life,Yes,Yes,Yes,Yes,Yes,Married,Home,39,Low,2-5 years,Low
+941,Good,High,Unemployed,Life,Yes,Yes,No,Yes,No,Single,Personal,24,High,5 years,Medium
+942,Excellent,Low,Employee,Auto,No,No,No,Yes,No,Married,Personal,35,Low,5 years,Medium
+943,Poor,High,Partner,Life,No,No,No,No,No,Married,Home,47,Medium,5 years,Low
+944,Excellent,High,Partner,Home Owner,No,Yes,No,Yes,No,Single,Home,30,Medium,2-5 years,High
+945,Good,High,Unemployed,Life,Yes,No,No,No,No,Married,Home,49,Medium,5 years,Medium
+946,Good,High,Employee,Home Owner,Yes,No,Yes,Yes,No,Married,Home,33,High,1 year,Medium
+947,Poor,Medium,Employee,Life,No,No,No,Yes,Yes,Divorced,None,34,Medium,2-5 years,High
+948,Excellent,Low,Employee,Life,No,Yes,Yes,Yes,Yes,Single,Personal,28,High,1 year,High
+949,Good,High,Employee,Auto,No,Yes,Yes,Yes,No,Divorced,None,46,High,1 year,High
+950,Excellent,Medium,Employee,Life,No,No,Yes,No,No,Married,Home,37,Low,2-5 years,Medium
+951,Excellent,Low,Unemployed,Home Owner,No,No,No,Yes,No,Married,Personal,32,High,1 year,High
+952,Poor,High,Partner,Home Owner,Yes,No,No,Yes,No,Single,Home,20,High,2-5 years,Low
+953,Excellent,Low,Unemployed,Life,No,No,No,No,No,Divorced,Home,38,High,5 years,High
+954,Excellent,High,Partner,None,No,Yes,Yes,No,Yes,Married,Auto,31,High,5 years,Medium
+955,Good,High,Partner,Auto,No,No,No,Yes,Yes,Married,Auto,34,High,5 years,High
+956,Poor,Low,Partner,Home Owner,Yes,Yes,No,No,No,Single,None,40,Medium,1 year,High
+957,Good,High,Partner,None,No,Yes,Yes,Yes,No,Single,Personal,25,Low,2-5 years,Low
+958,Excellent,Medium,Unemployed,None,No,No,Yes,Yes,No,Single,Home,26,High,5 years,Medium
+959,Poor,Medium,Partner,Auto,No,No,Yes,Yes,No,Married,Auto,64,Low,5 years,Low
+960,Excellent,Low,Employee,Life,No,Yes,No,Yes,No,Divorced,Personal,40,High,2-5 years,Low
+961,Excellent,High,Unemployed,Home Owner,No,Yes,Yes,No,Yes,Single,Auto,40,Low,2-5 years,High
+962,Excellent,Medium,Employee,Auto,No,No,Yes,Yes,No,Single,Auto,33,High,2-5 years,High
+963,Good,Low,Employee,None,No,Yes,Yes,No,Yes,Married,Home,44,High,2-5 years,High
+964,Poor,Medium,Unemployed,Home Owner,Yes,Yes,No,Yes,Yes,Single,None,28,Low,5 years,Low
+965,Good,High,Partner,Auto,No,Yes,No,Yes,No,Divorced,Auto,38,High,1 year,High
+966,Excellent,Medium,Partner,None,Yes,Yes,No,Yes,Yes,Married,Home,39,Medium,2-5 years,Medium
+967,Excellent,High,Employee,None,Yes,Yes,Yes,No,No,Single,None,21,Low,1 year,Medium
+968,Excellent,Low,Employee,None,No,Yes,Yes,No,Yes,Single,None,29,Low,1 year,High
+969,Good,Medium,Unemployed,Auto,No,Yes,No,No,Yes,Single,Personal,34,Low,2-5 years,High
+970,Poor,Medium,Partner,Home Owner,No,No,No,Yes,Yes,Single,None,36,Medium,1 year,High
+971,Excellent,Medium,Employee,Life,Yes,Yes,No,No,No,Single,None,27,Medium,5 years,Medium
+972,Poor,Medium,Unemployed,Home Owner,Yes,No,Yes,Yes,Yes,Divorced,Home,42,Low,2-5 years,Low
+973,Excellent,High,Unemployed,None,Yes,Yes,Yes,No,Yes,Married,Personal,32,High,1 year,High
+974,Poor,High,Employee,None,No,Yes,Yes,No,Yes,Divorced,Home,34,Medium,2-5 years,Low
+975,Good,High,Employee,None,Yes,No,Yes,Yes,No,Married,None,31,Medium,5 years,Low
+976,Excellent,Low,Unemployed,Auto,No,No,No,Yes,Yes,Divorced,Personal,31,Low,2-5 years,Low
+977,Good,Medium,Employee,Home Owner,Yes,No,No,Yes,No,Single,Home,45,Low,5 years,High
+978,Excellent,Low,Employee,None,No,Yes,No,No,No,Single,None,20,Medium,1 year,Medium
+979,Excellent,Medium,Partner,Life,No,No,No,No,Yes,Divorced,Home,59,Low,5 years,High
+980,Poor,Low,Employee,Life,No,Yes,No,No,Yes,Married,None,33,Medium,2-5 years,High
+981,Excellent,High,Employee,Life,Yes,Yes,Yes,Yes,No,Married,Auto,73,High,5 years,Medium
+982,Poor,Medium,Unemployed,Auto,No,No,No,Yes,No,Married,Personal,30,Low,1 year,High
+983,Poor,Medium,Employee,Life,Yes,Yes,No,No,Yes,Single,Home,35,Low,5 years,Low
+984,Poor,Low,Unemployed,Life,No,Yes,No,Yes,No,Divorced,Home,30,Low,2-5 years,High
+985,Good,Medium,Employee,Home Owner,Yes,No,No,No,No,Single,None,34,Medium,2-5 years,Medium
+986,Good,Low,Employee,Life,Yes,No,No,No,No,Single,Auto,45,Low,1 year,Medium
+987,Good,Low,Employee,Home Owner,Yes,No,No,Yes,No,Married,Personal,47,Medium,1 year,High
+988,Excellent,Medium,Unemployed,Auto,Yes,Yes,Yes,Yes,No,Married,Home,48,Medium,2-5 years,High
+989,Excellent,Medium,Employee,Home Owner,No,No,Yes,Yes,No,Single,None,34,High,1 year,High
+990,Excellent,Medium,Employee,Life,Yes,Yes,No,No,Yes,Divorced,None,49,Medium,1 year,Medium
+991,Poor,Low,Partner,None,Yes,Yes,Yes,No,Yes,Single,Personal,26,Medium,5 years,Low
+992,Poor,Medium,Employee,None,Yes,No,No,Yes,Yes,Single,Home,37,High,2-5 years,Medium
+993,Excellent,Medium,Partner,Life,No,No,No,No,No,Divorced,Home,29,High,2-5 years,High
+994,Poor,High,Employee,Home Owner,Yes,No,No,Yes,Yes,Divorced,Personal,44,Low,2-5 years,Low
+995,Poor,Medium,Partner,None,No,No,Yes,No,No,Married,Personal,42,Low,5 years,Low
+996,Good,Medium,Employee,Home Owner,No,No,No,Yes,Yes,Single,Auto,23,Low,5 years,High
+997,Good,Medium,Partner,Auto,Yes,No,No,Yes,No,Single,Home,21,High,5 years,High
+998,Good,Medium,Partner,Auto,No,Yes,No,Yes,Yes,Married,Personal,36,High,1 year,High
+999,Excellent,Low,Partner,Home Owner,No,No,Yes,Yes,Yes,Married,Personal,46,Low,5 years,High
+1000,Excellent,High,Partner,Home Owner,No,No,No,Yes,Yes,Single,None,42,High,2-5 years,Medium
