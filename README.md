@@ -8,7 +8,9 @@ The following steps were followed from the Amazon Redshift Getting Started Guide
 Step 1: Set Up Prerequisites: 
 
 •	Sign Up for AWS
+
 •	Install SQL Client Drivers and Tools
+
 •	Determine Firewall Rules
 
 Step 2: Create an IAM Role:
